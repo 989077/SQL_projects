@@ -53,3 +53,23 @@ branch_reports: A high-level summary showing total books issued, returned, and t
 Foreign Key Integrity: Ensure that books and members records exist before inserting into issued_status.
 
 Date Formats: The analysis uses CURRENT_DATE and INTERVAL. Depending on your SQL engine (MySQL vs. PostgreSQL), syntax for date subtraction may vary slightly.
+
+#  🛍️ Retail Sales Analysis SQL Project
+
+📊 Project Overview
+This project focuses on performing exploratory data analysis (EDA) and resolving core business challenges using Structured Query Language (SQL). By querying a structured transaction dataset retail_sales, the analysis aims to reveal actionable business insights on consumer demographics, seasonal shopping frequencies, high-value conversion pipelines, and behavioral patterns relative to temporal shift shifts.
+
+The query scripts cover essential analytical techniques, including aggregations, window operations (RANK()), date formatting transformations, and conditional categorization logic (CASE statements).
+
+🛠️ Data Code Review & Quality Assurance
+During standard optimization passes of your source queries, the following updates were established to maintain syntax stability across standard relational engines (such as MySQL and PostgreSQL):
+
+Typo Resolution (Q2): Corrected a critical column structural mismatch where quantiy was specified instead of quantity.
+
+Logic Alignment (Q2): The question requested transactions where quantity sold is more than 10, but the code checked > 3. This has been updated to quantity > 10 to match the business request.
+
+Missing Solution Deployment (Q9): Handled and provided the core syntax layout resolving the missing implementation for counting distinct consumers per retail category.
+
+Keyword Collision Safeguards (Q4): Modified text parameters like 'beuty' to match clean string conventions 'Beauty' while ensuring robust data coverage.
+
+🚀 Key Business Problems Solved (Questions & Code)
