@@ -1,0 +1,31 @@
+# 📊 Customer Churn & Cohort Analysis using SQL
+
+## 📌 Project Overview
+
+Customer churn is one of the biggest challenges for SaaS and subscription-based businesses. This project focuses on analyzing customer behavior, subscription patterns, revenue performance, and churn trends using SQL.
+
+The objective of this project is to identify:
+
+- Customer churn rate
+- Revenue loss due to churn
+- Customer retention patterns
+- Subscription plan performance
+- Customer lifetime behavior
+- Monthly customer acquisition trends
+- Churn reasons analysis
+
+This project demonstrates SQL skills required for a Data Analyst role, including data cleaning, aggregation, filtering, window functions, and cohort analysis.
+
+---
+
+# 🛠️ Tools & Technologies Used
+
+- **Database:** MySQL 8.0
+- **Language:** SQL
+- **Dataset:** Customer Subscription Dataset (1000 Records)
+- **Analysis:** Customer Churn Analysis & Cohort Analysis
+- **Visualization (Optional):** Power BI / Tableau
+
+---
+
+# 📂 Project Structure
