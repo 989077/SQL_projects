@@ -1,0 +1,1001 @@
+customer_id,customer_name,gender,age,country,signup_date,subscription_plan,monthly_fee,billing_cycle,payment_method,last_payment_date,login_frequency,support_tickets,avg_session_minutes,total_revenue,auto_renew,contract_type,churn_status,churn_date,churn_reason
+1001,Aarav Smith,Female,19,UK,2023-06-09,Standard,19.99,Monthly,Debit Card,2024-01-16,46,8,30.7,139.93,No,Monthly,No,,
+1002,Om Smith,Female,58,Canada,2025-03-01,Standard,19.99,Yearly,UPI,2027-07-05,42,0,57.8,6716.64,Yes,Monthly,Yes,2027-07-12,Switched Competitor
+1003,Alex Waghchaure,Male,42,Japan,2025-02-05,Basic,9.99,Yearly,Credit Card,2027-01-15,2,8,34.0,2757.24,No,Annual,Yes,2027-03-06,Poor Support
+1004,Noah Brown,Female,24,Canada,2024-12-13,Basic,9.99,Monthly,Debit Card,2026-04-07,47,9,87.5,159.84,Yes,Monthly,No,,
+1005,Alex Johnson,Female,44,Germany,2024-09-24,Standard,19.99,Monthly,UPI,2025-06-18,17,8,70.1,159.92,Yes,Annual,No,,
+1006,Alex Brown,Female,51,UK,2024-02-04,Premium,39.99,Monthly,Debit Card,2024-11-11,55,4,137.2,359.91,Yes,Annual,No,,
+1007,Noah Patel,Female,32,Canada,2025-03-22,Premium,39.99,Monthly,Credit Card,2026-09-02,45,10,112.5,679.83,Yes,Annual,Yes,2026-09-16,Switched Competitor
+1008,Emma Smith,Male,19,Japan,2023-06-04,Premium,39.99,Yearly,UPI,2023-08-29,37,9,162.8,959.76,No,Annual,Yes,2023-10-11,High Price
+1009,Ethan Patel,Male,35,USA,2022-12-02,Basic,9.99,Monthly,Debit Card,2024-03-23,9,4,83.4,149.85,No,Annual,Yes,2024-04-10,Poor Support
+1010,Mia Smith,Male,33,USA,2022-08-19,Premium,39.99,Yearly,Debit Card,2023-12-02,35,9,122.9,7198.2,No,Monthly,Yes,2024-01-26,Features Missing
+1011,Emma Sharma,Female,24,UK,2024-12-31,Basic,9.99,Monthly,UPI,2025-09-17,45,2,118.3,79.92,Yes,Annual,Yes,2025-10-16,Low Usage
+1012,John Brown,Female,29,Japan,2022-06-25,Premium,39.99,Monthly,PayPal,2024-08-23,18,7,152.2,1039.74,No,Monthly,No,,
+1013,Anaya Smith,Male,28,India,2023-10-31,Premium,39.99,Yearly,UPI,2025-01-28,55,5,44.1,7198.2,No,Annual,Yes,2025-03-20,Features Missing
+1014,Om Sharma,Female,40,Australia,2022-09-27,Standard,19.99,Yearly,PayPal,2024-05-16,6,7,27.1,4557.72,Yes,Annual,No,,
+1015,Ethan Sharma,Female,63,Germany,2023-12-07,Basic,9.99,Yearly,Credit Card,2024-06-02,38,4,64.0,599.4,No,Annual,No,,
+1016,John Waghchaure,Female,61,USA,2022-07-12,Basic,9.99,Monthly,PayPal,2024-04-12,0,6,43.3,209.79,No,Annual,No,,
+1017,Priya Smith,Male,33,Canada,2022-02-12,Basic,9.99,Monthly,Debit Card,2023-10-29,29,0,153.4,199.8,No,Annual,No,,
+1018,Noah Johnson,Male,61,Canada,2024-07-02,Basic,9.99,Yearly,UPI,2025-03-13,42,1,144.1,959.04,Yes,Annual,Yes,2025-03-22,Poor Support
+1019,Noah Sharma,Female,56,Canada,2023-06-18,Standard,19.99,Yearly,Debit Card,2024-04-07,27,8,69.4,2158.92,Yes,Monthly,No,,
+1020,Kabir Patel,Female,52,Australia,2024-04-12,Premium,39.99,Monthly,Debit Card,2026-06-03,54,3,24.2,1039.74,Yes,Annual,No,,
+1021,Alex Waghchaure,Male,23,India,2023-02-11,Premium,39.99,Yearly,PayPal,2024-06-11,51,2,97.3,7678.08,Yes,Annual,No,,
+1022,Anaya Patel,Male,35,USA,2025-04-03,Premium,39.99,Yearly,UPI,2027-02-20,55,4,50.2,10557.36,Yes,Annual,No,,
+1023,John Waghchaure,Female,34,Canada,2022-06-27,Premium,39.99,Yearly,Credit Card,2023-08-24,32,4,162.2,6718.32,No,Monthly,Yes,2023-09-01,Switched Competitor
+1024,Noah Smith,Male,60,Canada,2025-03-14,Premium,39.99,Monthly,PayPal,2025-06-20,19,8,66.5,119.97,Yes,Monthly,No,,
+1025,Olivia Sharma,Male,57,Canada,2023-11-29,Standard,19.99,Monthly,PayPal,2024-12-26,18,6,117.4,259.87,No,Annual,No,,
+1026,Noah Smith,Male,38,India,2023-07-14,Standard,19.99,Yearly,Debit Card,2024-05-14,55,5,78.0,2398.8,Yes,Monthly,No,,
+1027,Sophia Patel,Male,57,Australia,2022-06-18,Basic,9.99,Monthly,UPI,2023-07-03,9,0,46.9,119.88,No,Monthly,No,,
+1028,Alex Sharma,Female,19,Germany,2024-04-04,Basic,9.99,Monthly,UPI,2025-08-09,10,4,9.9,159.84,Yes,Monthly,Yes,2025-10-08,Low Usage
+1029,Alex Sharma,Female,21,Germany,2024-10-03,Standard,19.99,Monthly,PayPal,2026-08-23,33,9,81.3,439.78,No,Annual,No,,
+1030,Priya Sharma,Male,21,USA,2024-10-06,Premium,39.99,Yearly,Debit Card,2025-04-27,55,10,59.3,2879.28,Yes,Annual,Yes,2025-05-22,Poor Support
+1031,Noah Waghchaure,Male,62,Canada,2025-03-18,Premium,39.99,Monthly,Credit Card,2026-12-19,22,9,17.2,839.79,Yes,Annual,No,,
+1032,Sophia Sharma,Female,31,Germany,2023-09-29,Standard,19.99,Monthly,Credit Card,2025-08-05,32,3,108.4,439.78,Yes,Annual,No,,
+1033,Ava Brown,Male,59,Japan,2024-12-18,Premium,39.99,Yearly,UPI,2026-06-17,52,0,26.9,8637.84,No,Annual,No,,
+1034,Ava Smith,Male,47,UK,2025-01-05,Premium,39.99,Yearly,UPI,2027-04-20,24,7,82.4,12956.76,No,Monthly,No,,
+1035,Alex Waghchaure,Female,28,Australia,2023-12-25,Basic,9.99,Yearly,PayPal,2025-10-21,26,7,171.7,2637.36,Yes,Monthly,No,,
+1036,Riya Smith,Female,33,Germany,2022-10-27,Standard,19.99,Yearly,PayPal,2023-03-09,15,2,144.0,959.52,No,Annual,No,,
+1037,Ethan Smith,Female,63,Canada,2023-07-23,Basic,9.99,Monthly,Credit Card,2024-04-24,50,0,177.7,89.91,Yes,Monthly,No,,
+1038,Liam Johnson,Male,20,India,2022-01-01,Basic,9.99,Monthly,Credit Card,2022-09-13,11,4,66.6,79.92,No,Annual,No,,
+1039,Ava Brown,Female,60,USA,2023-10-29,Standard,19.99,Yearly,Credit Card,2023-12-11,53,8,133.5,239.88,No,Monthly,Yes,2023-12-18,Poor Support
+1040,Ethan Brown,Female,39,UK,2022-08-31,Basic,9.99,Yearly,Debit Card,2023-06-24,0,2,34.7,1078.92,No,Annual,Yes,2023-06-25,Low Usage
+1041,Ava Waghchaure,Male,26,USA,2024-12-12,Basic,9.99,Monthly,Debit Card,2027-05-15,38,10,104.1,289.71,Yes,Monthly,No,,
+1042,Alex Waghchaure,Female,39,India,2022-09-29,Standard,19.99,Monthly,PayPal,2023-11-12,13,10,95.2,259.87,Yes,Annual,No,,
+1043,Alex Patel,Male,37,Australia,2022-09-12,Standard,19.99,Yearly,Debit Card,2024-12-29,8,4,40.6,6476.76,No,Monthly,Yes,2025-01-23,Switched Competitor
+1044,Om Patel,Female,40,Japan,2022-10-15,Premium,39.99,Monthly,UPI,2022-11-26,19,3,97.9,39.99,No,Annual,No,,
+1045,Kabir Patel,Female,47,USA,2023-09-15,Standard,19.99,Yearly,Debit Card,2024-10-03,49,9,31.7,2878.56,No,Monthly,Yes,2024-10-27,High Price
+1046,Riya Waghchaure,Male,58,India,2024-10-09,Premium,39.99,Yearly,Debit Card,2026-05-08,42,4,58.5,9117.72,No,Annual,No,,
+1047,Anaya Patel,Male,23,Japan,2025-02-14,Standard,19.99,Yearly,Debit Card,2027-06-17,11,8,38.4,6716.64,Yes,Monthly,No,,
+1048,Sophia Waghchaure,Male,26,UK,2023-02-19,Premium,39.99,Monthly,PayPal,2024-05-03,49,0,29.1,559.86,No,Annual,No,,
+1049,Ava Sharma,Female,24,Japan,2024-08-10,Premium,39.99,Monthly,Credit Card,2025-06-11,56,4,154.8,399.9,Yes,Annual,No,,
+1050,Ethan Waghchaure,Male,43,Japan,2024-09-12,Premium,39.99,Monthly,PayPal,2025-01-10,60,10,82.6,159.96,No,Annual,No,,
+1051,Anaya Waghchaure,Female,63,Canada,2025-02-20,Basic,9.99,Monthly,Debit Card,2025-10-06,38,1,142.6,69.93,No,Annual,No,,
+1052,Anaya Smith,Female,27,USA,2023-09-10,Premium,39.99,Yearly,UPI,2025-11-07,55,7,24.9,12476.88,No,Monthly,Yes,2025-11-18,High Price
+1053,Om Sharma,Male,19,UK,2022-04-04,Standard,19.99,Monthly,UPI,2024-03-28,16,5,97.6,479.76,No,Annual,No,,
+1054,Alex Brown,Female,32,Canada,2023-08-14,Standard,19.99,Yearly,UPI,2025-08-16,23,4,132.5,5757.12,No,Annual,No,,
+1055,Mia Smith,Male,51,Japan,2023-11-05,Basic,9.99,Yearly,PayPal,2025-08-17,20,0,167.4,2517.48,Yes,Annual,No,,
+1056,Om Sharma,Male,30,Japan,2023-11-23,Basic,9.99,Monthly,PayPal,2024-11-05,17,6,117.1,109.89,No,Annual,No,,
+1057,Mia Patel,Female,29,USA,2023-08-09,Standard,19.99,Yearly,Debit Card,2026-01-17,46,8,130.8,6956.52,Yes,Annual,No,,
+1058,Ethan Waghchaure,Female,18,Canada,2024-03-21,Standard,19.99,Monthly,Credit Card,2025-05-24,42,3,146.1,279.86,Yes,Monthly,No,,
+1059,Aarav Patel,Male,64,UK,2024-12-18,Basic,9.99,Monthly,Debit Card,2026-10-03,15,1,169.6,209.79,No,Monthly,Yes,2026-11-02,Poor Support
+1060,Priya Smith,Female,46,Australia,2022-05-20,Standard,19.99,Yearly,PayPal,2022-11-24,34,10,129.7,1439.28,No,Monthly,No,,
+1061,Kabir Waghchaure,Male,60,UK,2023-02-02,Basic,9.99,Monthly,PayPal,2025-03-12,4,9,166.9,249.75,Yes,Annual,No,,
+1062,Alex Smith,Male,56,Japan,2023-08-29,Standard,19.99,Yearly,Debit Card,2023-10-09,19,9,66.1,239.88,Yes,Annual,Yes,2023-12-07,Switched Competitor
+1063,Aarav Brown,Male,57,Japan,2024-04-03,Premium,39.99,Monthly,UPI,2025-09-30,41,2,162.9,719.82,No,Annual,No,,
+1064,Liam Patel,Male,63,Japan,2022-09-09,Premium,39.99,Monthly,PayPal,2023-07-11,42,3,28.0,399.9,Yes,Monthly,No,,
+1065,Anaya Patel,Male,61,Canada,2022-01-02,Premium,39.99,Yearly,Debit Card,2022-10-08,34,6,176.4,4318.92,Yes,Annual,Yes,2022-11-30,Features Missing
+1066,Riya Johnson,Female,48,India,2022-03-17,Basic,9.99,Yearly,PayPal,2022-07-08,9,3,59.4,359.64,Yes,Annual,Yes,2022-09-05,High Price
+1067,Anaya Patel,Female,44,USA,2024-12-04,Standard,19.99,Monthly,UPI,2027-03-23,5,2,158.4,539.73,No,Monthly,No,,
+1068,Emma Patel,Male,38,UK,2022-06-02,Basic,9.99,Yearly,Debit Card,2024-04-04,30,6,72.9,2637.36,Yes,Annual,No,,
+1069,Liam Johnson,Male,21,USA,2023-11-25,Standard,19.99,Yearly,Credit Card,2024-07-14,52,0,82.4,1679.16,No,Monthly,No,,
+1070,Emma Johnson,Male,18,Germany,2024-03-23,Basic,9.99,Monthly,UPI,2024-08-01,31,8,42.2,39.96,No,Monthly,Yes,2024-09-09,High Price
+1071,Kabir Sharma,Female,47,Japan,2023-12-19,Premium,39.99,Monthly,Debit Card,2025-03-12,6,9,83.4,559.86,Yes,Monthly,Yes,2025-04-07,Switched Competitor
+1072,John Sharma,Male,23,Canada,2022-10-27,Premium,39.99,Monthly,UPI,2024-04-09,39,10,115.2,679.83,Yes,Annual,No,,
+1073,Ava Waghchaure,Female,59,USA,2022-05-11,Premium,39.99,Yearly,UPI,2023-04-18,12,3,135.4,5278.68,Yes,Annual,Yes,2023-06-16,Features Missing
+1074,Om Patel,Female,28,USA,2023-12-23,Basic,9.99,Monthly,Debit Card,2024-12-16,54,6,81.1,109.89,Yes,Annual,No,,
+1075,Kabir Sharma,Female,53,Germany,2024-01-06,Standard,19.99,Monthly,Debit Card,2026-05-30,47,10,68.8,579.71,Yes,Annual,Yes,2026-06-19,High Price
+1076,Emma Smith,Female,46,UK,2022-02-18,Basic,9.99,Yearly,Debit Card,2022-07-16,7,10,151.5,479.52,Yes,Annual,No,,
+1077,Priya Sharma,Female,41,Canada,2024-06-18,Premium,39.99,Yearly,UPI,2026-09-11,59,3,94.9,12956.76,Yes,Annual,Yes,2026-10-24,Features Missing
+1078,Aarav Brown,Male,55,India,2024-03-26,Standard,19.99,Monthly,Debit Card,2024-09-29,51,7,169.9,119.94,Yes,Monthly,No,,
+1079,Ethan Sharma,Female,54,Germany,2024-07-09,Standard,19.99,Monthly,UPI,2024-12-15,30,4,118.1,99.95,No,Monthly,Yes,2025-02-01,Low Usage
+1080,John Brown,Female,36,UK,2025-01-27,Standard,19.99,Monthly,PayPal,2026-08-31,28,1,21.8,379.81,No,Annual,No,,
+1081,Ava Sharma,Female,62,India,2022-10-25,Standard,19.99,Yearly,UPI,2022-11-30,52,0,55.2,239.88,Yes,Annual,No,,
+1082,Olivia Brown,Male,41,USA,2023-04-07,Standard,19.99,Yearly,Debit Card,2024-12-18,17,0,24.0,4797.6,No,Monthly,No,,
+1083,Kabir Sharma,Female,61,Germany,2024-01-19,Basic,9.99,Monthly,PayPal,2026-05-11,31,2,149.5,279.72,No,Annual,No,,
+1084,Riya Patel,Male,45,India,2022-07-14,Premium,39.99,Yearly,Debit Card,2022-10-19,12,1,96.7,1439.64,No,Annual,No,,
+1085,Emma Johnson,Female,20,UK,2024-10-13,Standard,19.99,Monthly,Debit Card,2026-03-06,58,2,161.1,319.84,No,Annual,Yes,2026-04-24,Switched Competitor
+1086,Aarav Brown,Male,61,Australia,2024-09-13,Basic,9.99,Yearly,UPI,2026-10-31,3,9,103.1,2997.0,Yes,Annual,No,,
+1087,Kabir Smith,Male,35,Germany,2023-08-18,Basic,9.99,Monthly,UPI,2023-11-30,51,6,128.4,29.97,No,Annual,No,,
+1088,Alex Johnson,Female,31,Canada,2024-12-13,Standard,19.99,Monthly,Credit Card,2025-02-23,37,10,126.6,39.98,No,Annual,No,,
+1089,Aarav Smith,Female,60,Japan,2023-11-01,Basic,9.99,Monthly,PayPal,2025-01-02,12,4,30.5,139.86,No,Annual,Yes,2025-01-13,Low Usage
+1090,Anaya Brown,Female,19,Canada,2023-11-30,Basic,9.99,Yearly,PayPal,2024-05-31,5,8,56.0,719.28,Yes,Monthly,No,,
+1091,Anaya Smith,Male,41,UK,2024-03-14,Standard,19.99,Monthly,Debit Card,2024-12-09,47,3,59.3,179.91,No,Monthly,No,,
+1092,Kabir Johnson,Male,52,Germany,2025-01-05,Standard,19.99,Monthly,Debit Card,2026-08-17,30,10,51.8,379.81,No,Annual,No,,
+1093,Priya Brown,Female,59,USA,2022-01-26,Basic,9.99,Monthly,Debit Card,2022-07-09,57,8,31.3,49.95,No,Annual,No,,
+1094,Sophia Smith,Female,23,India,2024-08-29,Premium,39.99,Yearly,UPI,2026-11-08,30,10,31.3,12476.88,No,Annual,No,,
+1095,Liam Brown,Male,28,UK,2023-07-06,Basic,9.99,Monthly,Debit Card,2025-10-24,6,0,145.8,279.72,Yes,Annual,No,,
+1096,Emma Waghchaure,Female,61,Australia,2024-09-21,Standard,19.99,Monthly,UPI,2025-05-04,42,6,80.4,139.93,Yes,Annual,No,,
+1097,John Smith,Male,58,Australia,2022-03-05,Basic,9.99,Monthly,Credit Card,2023-07-01,3,5,119.4,159.84,No,Monthly,No,,
+1098,Kabir Smith,Female,32,India,2023-09-18,Basic,9.99,Yearly,Credit Card,2025-10-02,60,0,100.1,2877.12,No,Annual,No,,
+1099,Ava Sharma,Female,48,UK,2023-01-25,Premium,39.99,Yearly,Credit Card,2023-04-26,51,7,110.5,1439.64,No,Annual,Yes,2023-05-10,Features Missing
+1100,Priya Johnson,Male,18,USA,2025-01-16,Premium,39.99,Monthly,PayPal,2027-03-05,2,3,159.7,999.75,No,Monthly,No,,
+1101,Olivia Johnson,Female,19,USA,2024-09-04,Premium,39.99,Monthly,UPI,2025-11-12,0,4,138.7,559.86,Yes,Annual,Yes,2025-11-17,High Price
+1102,Alex Smith,Male,56,India,2023-01-05,Standard,19.99,Monthly,Debit Card,2024-04-16,25,6,14.7,299.85,No,Monthly,No,,
+1103,Sophia Brown,Female,20,Canada,2025-02-21,Basic,9.99,Monthly,Credit Card,2026-09-06,2,2,159.2,179.82,No,Monthly,No,,
+1104,Sophia Sharma,Female,33,Canada,2022-02-18,Standard,19.99,Monthly,UPI,2022-10-21,5,8,20.4,159.92,Yes,Annual,Yes,2022-12-18,Features Missing
+1105,Anaya Smith,Female,40,Germany,2022-06-22,Standard,19.99,Monthly,UPI,2024-02-23,48,0,98.2,399.8,No,Monthly,No,,
+1106,Ethan Johnson,Male,24,Canada,2024-09-02,Premium,39.99,Yearly,Debit Card,2026-09-24,36,9,35.0,11997.0,No,Annual,No,,
+1107,Olivia Sharma,Male,22,India,2023-06-25,Basic,9.99,Yearly,UPI,2024-02-17,50,10,75.3,839.16,No,Annual,No,,
+1108,Liam Patel,Female,44,Germany,2024-06-01,Basic,9.99,Yearly,PayPal,2026-09-26,7,10,59.2,3356.64,Yes,Annual,No,,
+1109,Om Brown,Male,30,UK,2024-09-28,Standard,19.99,Monthly,Credit Card,2026-12-24,11,3,161.3,539.73,No,Annual,No,,
+1110,Emma Sharma,Male,55,UK,2023-11-06,Premium,39.99,Yearly,PayPal,2024-01-13,54,5,52.6,959.76,Yes,Monthly,Yes,2024-02-09,Low Usage
+1111,Alex Sharma,Female,41,UK,2022-08-30,Premium,39.99,Yearly,UPI,2023-11-08,23,8,168.8,6718.32,Yes,Annual,No,,
+1112,Emma Brown,Female,40,USA,2023-07-11,Premium,39.99,Monthly,Credit Card,2025-02-17,43,1,5.4,759.81,No,Monthly,Yes,2025-03-27,Features Missing
+1113,Olivia Brown,Male,61,Japan,2023-02-11,Basic,9.99,Yearly,Debit Card,2025-02-19,60,4,176.7,2877.12,Yes,Annual,Yes,2025-03-19,Features Missing
+1114,Priya Sharma,Female,54,UK,2023-10-29,Basic,9.99,Yearly,Debit Card,2024-12-13,16,6,24.1,1558.44,Yes,Monthly,Yes,2024-12-16,Switched Competitor
+1115,Ava Sharma,Male,29,Canada,2025-04-02,Basic,9.99,Yearly,Credit Card,2027-03-26,21,10,31.0,2877.12,No,Monthly,No,,
+1116,Kabir Waghchaure,Female,40,USA,2022-10-28,Standard,19.99,Yearly,Debit Card,2023-01-05,11,10,78.3,479.76,Yes,Monthly,No,,
+1117,Riya Johnson,Male,18,Canada,2023-02-09,Basic,9.99,Monthly,Credit Card,2023-09-05,28,3,44.6,59.94,Yes,Monthly,No,,
+1118,Ethan Sharma,Female,65,Germany,2023-12-06,Premium,39.99,Yearly,PayPal,2025-07-11,45,4,7.7,9117.72,Yes,Monthly,No,,
+1119,Aarav Smith,Female,42,Canada,2025-03-19,Premium,39.99,Yearly,PayPal,2026-01-08,37,3,80.9,4318.92,No,Annual,No,,
+1120,Sophia Patel,Female,19,Germany,2022-06-13,Standard,19.99,Yearly,UPI,2024-10-16,24,1,25.7,6716.64,No,Monthly,No,,
+1121,Sophia Sharma,Female,32,UK,2024-04-20,Basic,9.99,Monthly,PayPal,2026-02-19,12,6,29.2,219.78,Yes,Annual,No,,
+1122,Sophia Johnson,Female,58,India,2023-01-12,Premium,39.99,Yearly,Debit Card,2024-01-04,10,1,98.7,5278.68,No,Annual,No,,
+1123,John Waghchaure,Male,23,USA,2025-03-24,Standard,19.99,Yearly,Credit Card,2027-03-08,41,8,71.7,5517.24,No,Monthly,Yes,2027-05-04,Poor Support
+1124,Om Smith,Female,40,India,2022-11-12,Basic,9.99,Monthly,UPI,2024-07-09,55,7,20.7,199.8,No,Monthly,No,,
+1125,Mia Smith,Female,24,Germany,2024-09-08,Premium,39.99,Monthly,UPI,2025-01-16,3,10,102.2,159.96,Yes,Annual,No,,
+1126,Om Brown,Female,21,Germany,2024-05-25,Premium,39.99,Monthly,PayPal,2024-10-04,37,4,130.8,159.96,No,Monthly,No,,
+1127,Noah Brown,Female,43,Germany,2024-01-19,Standard,19.99,Monthly,UPI,2025-12-07,59,8,8.3,439.78,No,Monthly,No,,
+1128,Priya Patel,Male,26,Japan,2023-07-18,Premium,39.99,Monthly,Debit Card,2024-03-01,56,8,24.7,279.93,Yes,Annual,No,,
+1129,Priya Sharma,Male,34,Australia,2024-05-21,Standard,19.99,Monthly,Debit Card,2025-02-24,8,4,138.0,179.91,Yes,Monthly,Yes,2025-04-16,Poor Support
+1130,Ava Sharma,Male,36,India,2023-07-03,Premium,39.99,Monthly,PayPal,2025-01-02,57,5,51.4,719.82,Yes,Annual,No,,
+1131,Olivia Johnson,Male,46,Canada,2025-03-03,Premium,39.99,Yearly,Credit Card,2025-12-21,39,1,22.5,4318.92,Yes,Monthly,No,,
+1132,Olivia Sharma,Female,44,USA,2023-06-29,Premium,39.99,Yearly,Credit Card,2025-07-12,33,1,117.2,11517.12,No,Monthly,No,,
+1133,John Waghchaure,Male,36,Canada,2022-09-06,Standard,19.99,Yearly,Debit Card,2024-09-21,0,8,87.6,5757.12,No,Monthly,Yes,2024-10-06,Low Usage
+1134,Om Sharma,Male,21,Germany,2022-04-11,Basic,9.99,Yearly,Debit Card,2023-04-10,45,10,59.7,1438.56,Yes,Monthly,No,,
+1135,Kabir Smith,Female,47,Canada,2022-08-15,Premium,39.99,Yearly,Credit Card,2024-03-30,10,0,87.8,9117.72,No,Annual,No,,
+1136,Om Brown,Male,36,Australia,2022-07-10,Basic,9.99,Yearly,UPI,2023-10-09,28,4,5.4,1798.2,Yes,Annual,No,,
+1137,Riya Johnson,Female,31,UK,2022-02-01,Basic,9.99,Monthly,Credit Card,2022-10-21,31,5,18.9,79.92,No,Annual,No,,
+1138,Liam Brown,Male,40,Australia,2023-06-11,Basic,9.99,Monthly,Credit Card,2024-04-22,50,7,85.1,99.9,No,Monthly,No,,
+1139,Aarav Johnson,Female,44,Germany,2023-06-28,Premium,39.99,Yearly,Debit Card,2025-06-09,17,1,19.3,11037.24,Yes,Annual,No,,
+1140,Liam Smith,Male,26,Canada,2023-07-20,Standard,19.99,Monthly,Credit Card,2025-07-30,24,8,151.7,479.76,Yes,Monthly,Yes,2025-09-28,Poor Support
+1141,Aarav Brown,Male,41,India,2023-06-28,Standard,19.99,Monthly,Credit Card,2025-04-23,43,0,134.9,439.78,Yes,Annual,Yes,2025-05-11,High Price
+1142,Riya Johnson,Male,39,Australia,2024-08-13,Basic,9.99,Monthly,Debit Card,2025-05-21,57,5,139.6,89.91,No,Monthly,Yes,2025-06-15,Switched Competitor
+1143,Olivia Johnson,Female,34,Canada,2024-05-23,Premium,39.99,Yearly,UPI,2024-08-16,0,5,19.4,959.76,No,Annual,Yes,2024-09-11,Poor Support
+1144,Riya Sharma,Male,48,USA,2024-05-31,Basic,9.99,Yearly,UPI,2025-02-25,7,6,144.4,1078.92,No,Monthly,No,,
+1145,Priya Johnson,Female,43,Canada,2023-09-19,Standard,19.99,Monthly,PayPal,2024-05-14,35,6,26.8,139.93,Yes,Monthly,Yes,2024-06-23,Low Usage
+1146,Alex Sharma,Female,24,Canada,2022-02-23,Premium,39.99,Yearly,UPI,2022-05-12,29,4,117.7,959.76,No,Monthly,No,,
+1147,Sophia Johnson,Male,44,UK,2022-08-23,Premium,39.99,Yearly,PayPal,2024-05-05,34,8,72.9,9597.6,Yes,Monthly,No,,
+1148,Emma Waghchaure,Female,31,Japan,2022-05-19,Basic,9.99,Monthly,PayPal,2024-06-02,54,9,115.7,239.76,Yes,Annual,No,,
+1149,Anaya Sharma,Male,53,UK,2024-07-05,Standard,19.99,Yearly,Debit Card,2025-03-13,55,1,153.0,1919.04,Yes,Monthly,Yes,2025-04-25,Low Usage
+1150,Sophia Waghchaure,Female,64,Australia,2022-09-04,Standard,19.99,Monthly,Debit Card,2024-08-05,58,3,128.6,459.77,Yes,Monthly,No,,
+1151,Alex Smith,Female,58,UK,2022-06-30,Premium,39.99,Yearly,Debit Card,2024-10-15,18,7,78.5,12956.76,No,Annual,No,,
+1152,Priya Johnson,Female,50,USA,2022-08-20,Premium,39.99,Monthly,PayPal,2023-06-18,14,0,17.4,399.9,Yes,Annual,No,,
+1153,John Waghchaure,Male,41,Canada,2024-11-28,Standard,19.99,Yearly,Debit Card,2026-04-29,21,2,112.8,4077.96,No,Monthly,No,,
+1154,Riya Brown,Male,54,USA,2023-03-08,Basic,9.99,Yearly,PayPal,2023-05-26,11,10,54.5,239.76,No,Monthly,No,,
+1155,Om Waghchaure,Female,18,UK,2024-06-29,Basic,9.99,Yearly,Debit Card,2025-07-25,21,10,162.8,1558.44,No,Monthly,Yes,2025-08-10,High Price
+1156,Anaya Smith,Female,64,UK,2024-08-25,Standard,19.99,Yearly,PayPal,2025-01-04,31,9,142.9,959.52,No,Annual,No,,
+1157,Om Smith,Male,21,India,2024-12-23,Premium,39.99,Yearly,PayPal,2025-09-28,26,7,101.7,4318.92,Yes,Monthly,No,,
+1158,Ethan Smith,Male,34,Germany,2025-01-17,Basic,9.99,Yearly,PayPal,2027-03-29,58,10,165.4,3116.88,Yes,Annual,Yes,2027-04-12,Low Usage
+1159,Ava Sharma,Female,65,USA,2023-03-27,Standard,19.99,Monthly,UPI,2023-11-13,18,0,95.7,139.93,Yes,Annual,No,,
+1160,Kabir Johnson,Male,49,India,2024-11-06,Basic,9.99,Monthly,Debit Card,2026-02-07,43,9,100.8,149.85,Yes,Annual,No,,
+1161,Sophia Waghchaure,Female,52,Japan,2022-09-19,Standard,19.99,Monthly,UPI,2023-10-24,25,9,134.3,259.87,Yes,Annual,No,,
+1162,Kabir Waghchaure,Female,31,Australia,2023-10-30,Premium,39.99,Yearly,Credit Card,2024-03-04,38,6,157.3,1919.52,Yes,Monthly,No,,
+1163,Noah Smith,Female,54,Germany,2024-11-07,Standard,19.99,Yearly,PayPal,2025-09-30,60,3,21.5,2398.8,Yes,Annual,No,,
+1164,Ethan Sharma,Male,63,India,2023-02-20,Basic,9.99,Monthly,PayPal,2024-07-02,53,9,60.0,159.84,Yes,Monthly,No,,
+1165,Anaya Sharma,Female,53,UK,2022-11-16,Premium,39.99,Monthly,Credit Card,2024-01-13,34,10,135.5,559.86,No,Annual,Yes,2024-01-26,Switched Competitor
+1166,Om Sharma,Female,53,Australia,2024-03-02,Basic,9.99,Monthly,PayPal,2024-08-12,3,1,174.8,49.95,No,Monthly,No,,
+1167,Anaya Johnson,Male,28,Germany,2024-12-15,Premium,39.99,Yearly,Credit Card,2025-04-22,6,8,167.8,1919.52,No,Annual,No,,
+1168,Liam Sharma,Female,49,Canada,2022-08-21,Standard,19.99,Monthly,PayPal,2024-10-23,35,0,131.1,519.74,Yes,Monthly,Yes,2024-12-19,Features Missing
+1169,Emma Smith,Male,26,USA,2022-04-12,Premium,39.99,Yearly,Debit Card,2023-05-29,2,7,29.5,6238.44,No,Monthly,No,,
+1170,Noah Patel,Male,25,USA,2024-10-10,Basic,9.99,Yearly,Credit Card,2024-12-07,28,0,19.9,119.88,Yes,Annual,Yes,2025-01-12,Switched Competitor
+1171,Riya Brown,Male,65,Germany,2025-01-13,Premium,39.99,Monthly,UPI,2025-12-31,3,7,18.8,439.89,Yes,Annual,No,,
+1172,Emma Smith,Male,30,Canada,2022-01-15,Basic,9.99,Yearly,Credit Card,2023-05-13,5,1,72.9,1918.08,Yes,Annual,No,,
+1173,Kabir Patel,Male,63,India,2025-02-19,Basic,9.99,Yearly,PayPal,2027-05-07,52,9,156.5,3116.88,No,Annual,Yes,2027-05-16,Low Usage
+1174,Kabir Smith,Male,59,USA,2024-01-31,Standard,19.99,Monthly,UPI,2025-11-26,35,0,51.4,439.78,No,Annual,Yes,2025-12-14,Switched Competitor
+1175,Mia Patel,Female,49,India,2023-01-08,Standard,19.99,Monthly,Debit Card,2024-10-30,12,2,28.7,439.78,Yes,Monthly,No,,
+1176,Mia Waghchaure,Male,49,India,2023-07-15,Premium,39.99,Yearly,Debit Card,2025-08-24,21,8,123.1,11997.0,No,Annual,No,,
+1177,John Brown,Male,22,India,2023-07-04,Standard,19.99,Yearly,Debit Card,2024-04-07,50,8,65.4,2158.92,Yes,Monthly,No,,
+1178,Om Brown,Male,21,Japan,2022-11-07,Premium,39.99,Yearly,UPI,2024-06-16,2,10,140.8,9117.72,No,Annual,No,,
+1179,Kabir Sharma,Female,37,Germany,2024-05-28,Basic,9.99,Yearly,UPI,2025-01-29,8,2,27.0,959.04,No,Annual,Yes,2025-01-30,Switched Competitor
+1180,Ava Patel,Female,18,UK,2023-08-04,Premium,39.99,Monthly,PayPal,2025-02-28,38,10,32.3,759.81,Yes,Monthly,No,,
+1181,Riya Sharma,Male,24,Japan,2023-07-18,Basic,9.99,Monthly,UPI,2024-01-22,33,6,57.8,59.94,No,Annual,Yes,2024-02-23,Switched Competitor
+1182,Anaya Smith,Male,62,Canada,2022-01-23,Standard,19.99,Monthly,UPI,2023-11-27,56,5,122.3,439.78,Yes,Monthly,No,,
+1183,Alex Patel,Female,52,Australia,2023-06-22,Basic,9.99,Monthly,UPI,2023-08-02,6,2,41.3,9.99,Yes,Annual,No,,
+1184,Sophia Johnson,Male,59,Canada,2023-11-30,Basic,9.99,Monthly,PayPal,2024-01-26,3,5,168.8,9.99,No,Annual,No,,
+1185,Riya Sharma,Male,40,Canada,2024-02-07,Standard,19.99,Yearly,Debit Card,2025-01-23,35,7,176.1,2638.68,No,Monthly,No,,
+1186,Om Johnson,Male,30,Australia,2023-07-05,Premium,39.99,Monthly,PayPal,2025-09-18,32,10,132.4,1039.74,No,Annual,No,,
+1187,Priya Waghchaure,Male,45,Canada,2024-08-31,Standard,19.99,Yearly,PayPal,2026-07-06,59,10,22.7,5277.36,No,Monthly,No,,
+1188,Mia Sharma,Female,60,Germany,2022-07-01,Basic,9.99,Yearly,Debit Card,2023-10-19,37,4,8.2,1798.2,Yes,Annual,Yes,2023-11-24,High Price
+1189,Riya Johnson,Female,59,Germany,2023-03-27,Basic,9.99,Monthly,UPI,2024-07-01,23,1,29.4,149.85,Yes,Monthly,No,,
+1190,Liam Waghchaure,Male,38,Canada,2024-09-14,Basic,9.99,Yearly,Credit Card,2025-12-13,32,8,57.1,1798.2,Yes,Annual,Yes,2026-01-26,High Price
+1191,Liam Sharma,Male,25,India,2024-01-07,Basic,9.99,Monthly,PayPal,2025-10-27,43,0,165.4,209.79,Yes,Annual,No,,
+1192,Noah Sharma,Male,58,USA,2022-12-16,Premium,39.99,Yearly,Credit Card,2024-10-08,6,2,26.0,10557.36,No,Annual,No,,
+1193,Ethan Patel,Female,58,Australia,2023-08-27,Premium,39.99,Monthly,PayPal,2025-12-18,23,2,87.4,1119.72,No,Annual,Yes,2026-01-26,Features Missing
+1194,Alex Brown,Male,62,Canada,2023-04-22,Basic,9.99,Yearly,PayPal,2023-12-09,20,5,162.5,839.16,No,Annual,No,,
+1195,Sophia Patel,Female,36,Australia,2023-01-04,Premium,39.99,Monthly,Credit Card,2025-04-03,49,8,97.1,1079.73,No,Annual,No,,
+1196,John Sharma,Female,56,UK,2022-06-29,Standard,19.99,Monthly,Debit Card,2024-06-25,27,2,129.9,479.76,No,Annual,No,,
+1197,Om Smith,Female,25,India,2024-08-25,Premium,39.99,Yearly,PayPal,2026-05-18,12,10,30.0,10077.48,No,Monthly,No,,
+1198,Alex Sharma,Female,34,Japan,2022-01-02,Standard,19.99,Yearly,Credit Card,2023-10-14,37,9,165.0,5037.48,No,Monthly,No,,
+1199,Kabir Patel,Female,28,Australia,2023-06-02,Basic,9.99,Yearly,PayPal,2023-10-25,6,0,155.0,479.52,No,Annual,No,,
+1200,Ethan Johnson,Female,63,Australia,2023-03-27,Premium,39.99,Monthly,Debit Card,2023-11-06,59,3,10.2,279.93,Yes,Monthly,No,,
+1201,Noah Brown,Male,50,Canada,2024-06-22,Basic,9.99,Monthly,Credit Card,2024-12-18,17,4,83.4,49.95,No,Monthly,No,,
+1202,Mia Patel,Female,62,Japan,2022-09-29,Basic,9.99,Yearly,PayPal,2023-04-14,22,8,172.4,719.28,Yes,Monthly,Yes,2023-06-02,Low Usage
+1203,Noah Sharma,Male,36,India,2022-06-12,Premium,39.99,Yearly,PayPal,2023-04-17,9,4,165.8,4798.8,Yes,Annual,Yes,2023-05-10,Features Missing
+1204,Alex Patel,Female,50,India,2022-11-10,Standard,19.99,Yearly,Debit Card,2023-03-25,31,7,155.7,959.52,Yes,Monthly,No,,
+1205,Noah Brown,Female,37,UK,2022-06-07,Basic,9.99,Yearly,UPI,2023-07-19,47,0,18.8,1558.44,Yes,Monthly,No,,
+1206,Priya Patel,Male,60,Canada,2024-10-04,Premium,39.99,Yearly,UPI,2025-03-31,31,8,35.6,2399.4,Yes,Monthly,No,,
+1207,Priya Waghchaure,Male,55,India,2023-04-22,Standard,19.99,Monthly,Debit Card,2025-03-08,55,10,96.3,439.78,No,Monthly,No,,
+1208,Mia Brown,Female,44,Australia,2024-04-02,Premium,39.99,Yearly,PayPal,2026-08-18,2,0,29.2,13436.64,Yes,Annual,No,,
+1209,Noah Smith,Female,49,Japan,2022-08-10,Basic,9.99,Yearly,Debit Card,2024-05-05,44,6,176.9,2517.48,No,Annual,No,,
+1210,Ethan Brown,Male,61,Japan,2022-10-21,Basic,9.99,Yearly,Debit Card,2024-11-25,8,3,164.3,2997.0,Yes,Annual,No,,
+1211,Sophia Brown,Male,42,UK,2022-04-09,Basic,9.99,Monthly,Debit Card,2023-04-09,39,1,17.6,119.88,No,Monthly,No,,
+1212,Liam Sharma,Female,61,Australia,2025-04-02,Basic,9.99,Monthly,UPI,2026-10-17,46,5,39.0,179.82,Yes,Monthly,No,,
+1213,Mia Waghchaure,Male,55,Germany,2025-01-30,Premium,39.99,Yearly,Credit Card,2027-07-11,57,2,53.4,13916.52,No,Annual,No,,
+1214,Liam Sharma,Male,46,USA,2023-12-20,Basic,9.99,Monthly,UPI,2024-04-13,17,1,79.0,29.97,Yes,Monthly,No,,
+1215,Riya Smith,Male,27,Australia,2023-09-17,Standard,19.99,Yearly,UPI,2024-02-26,40,1,111.6,1199.4,No,Monthly,No,,
+1216,Alex Sharma,Male,63,Japan,2023-11-13,Standard,19.99,Monthly,PayPal,2024-01-28,43,3,21.7,39.98,No,Annual,No,,
+1217,John Brown,Male,26,Germany,2024-10-08,Standard,19.99,Monthly,UPI,2025-04-09,21,4,28.0,119.94,No,Monthly,Yes,2025-05-29,Features Missing
+1218,Aarav Patel,Male,24,Japan,2022-02-26,Premium,39.99,Yearly,PayPal,2023-05-24,28,0,158.9,7198.2,Yes,Monthly,No,,
+1219,Anaya Patel,Male,51,UK,2023-09-06,Premium,39.99,Yearly,Debit Card,2026-01-13,28,6,45.1,13436.64,No,Monthly,No,,
+1220,Anaya Brown,Female,65,India,2023-12-16,Standard,19.99,Monthly,UPI,2024-04-25,36,4,101.0,79.96,No,Annual,No,,
+1221,Ava Johnson,Female,33,Germany,2024-06-04,Standard,19.99,Monthly,Credit Card,2025-04-25,21,8,147.9,199.9,No,Monthly,No,,
+1222,Aarav Brown,Female,53,Australia,2025-01-31,Standard,19.99,Monthly,UPI,2025-07-11,0,8,19.5,99.95,No,Monthly,No,,
+1223,Alex Brown,Male,26,Japan,2023-02-17,Basic,9.99,Monthly,Debit Card,2024-04-16,4,9,5.8,139.86,Yes,Annual,No,,
+1224,Ethan Brown,Male,30,USA,2024-09-12,Premium,39.99,Yearly,Debit Card,2026-09-06,20,9,89.0,11517.12,No,Annual,No,,
+1225,Liam Sharma,Male,58,Japan,2022-07-23,Basic,9.99,Monthly,PayPal,2024-12-16,58,5,132.2,289.71,No,Annual,No,,
+1226,Mia Johnson,Male,23,Australia,2022-10-25,Standard,19.99,Monthly,Debit Card,2024-03-22,28,1,59.4,339.83,No,Monthly,Yes,2024-04-10,Features Missing
+1227,Noah Waghchaure,Male,57,Australia,2024-09-23,Standard,19.99,Yearly,Credit Card,2027-02-10,48,10,164.3,6956.52,Yes,Annual,Yes,2027-03-03,Switched Competitor
+1228,Liam Smith,Female,20,Japan,2024-07-18,Standard,19.99,Monthly,Credit Card,2026-11-08,36,10,156.8,559.72,Yes,Annual,Yes,2026-11-24,Features Missing
+1229,Kabir Johnson,Female,22,Germany,2023-02-17,Basic,9.99,Monthly,Credit Card,2025-03-15,21,7,122.9,249.75,Yes,Monthly,No,,
+1230,Ethan Johnson,Male,34,India,2022-04-18,Basic,9.99,Yearly,Credit Card,2022-09-12,52,3,65.8,479.52,No,Monthly,No,,
+1231,Mia Sharma,Female,21,Germany,2024-08-26,Premium,39.99,Yearly,PayPal,2026-02-10,55,8,16.9,8157.96,No,Monthly,No,,
+1232,Liam Johnson,Male,36,Japan,2023-05-20,Premium,39.99,Yearly,UPI,2023-07-18,11,0,48.8,479.88,Yes,Monthly,No,,
+1233,Mia Smith,Female,60,USA,2023-11-02,Basic,9.99,Monthly,Debit Card,2025-12-01,40,2,11.6,249.75,No,Annual,Yes,2026-01-16,High Price
+1234,Ava Brown,Female,48,India,2023-07-19,Standard,19.99,Monthly,Credit Card,2025-05-30,42,1,98.1,439.78,Yes,Monthly,No,,
+1235,Alex Waghchaure,Male,57,Germany,2022-03-03,Premium,39.99,Yearly,PayPal,2022-07-12,38,2,116.4,1919.52,Yes,Annual,No,,
+1236,John Sharma,Male,45,Germany,2024-01-29,Premium,39.99,Monthly,UPI,2025-05-05,47,1,52.0,599.85,No,Annual,No,,
+1237,Priya Waghchaure,Male,63,Canada,2024-11-24,Standard,19.99,Monthly,PayPal,2025-10-21,10,0,108.4,219.89,Yes,Annual,No,,
+1238,Olivia Patel,Female,18,Canada,2022-02-13,Premium,39.99,Yearly,UPI,2024-06-17,18,2,170.5,13436.64,No,Monthly,No,,
+1239,Noah Brown,Female,56,India,2023-11-28,Basic,9.99,Monthly,Credit Card,2024-04-29,45,3,65.9,49.95,Yes,Monthly,No,,
+1240,Alex Smith,Female,61,USA,2022-02-05,Premium,39.99,Yearly,UPI,2022-10-14,34,4,170.3,3839.04,No,Annual,No,,
+1241,Ava Brown,Male,54,USA,2023-01-31,Premium,39.99,Monthly,Credit Card,2023-03-31,48,6,60.4,39.99,Yes,Monthly,No,,
+1242,Om Brown,Male,36,Canada,2024-05-30,Standard,19.99,Monthly,PayPal,2025-11-20,6,5,126.1,339.83,No,Annual,Yes,2025-11-23,Switched Competitor
+1243,Sophia Johnson,Female,41,UK,2023-10-02,Basic,9.99,Monthly,UPI,2024-12-27,31,8,140.8,149.85,No,Monthly,Yes,2025-01-20,Poor Support
+1244,Olivia Waghchaure,Female,49,India,2022-10-03,Basic,9.99,Monthly,Credit Card,2023-11-08,16,4,109.2,129.87,Yes,Annual,No,,
+1245,Emma Waghchaure,Female,34,UK,2024-10-07,Standard,19.99,Monthly,Credit Card,2025-05-06,42,9,21.4,139.93,No,Monthly,No,,
+1246,Om Johnson,Female,29,UK,2024-01-16,Standard,19.99,Monthly,UPI,2026-01-04,56,1,67.4,459.77,Yes,Annual,Yes,2026-03-05,Poor Support
+1247,Emma Brown,Female,53,Australia,2022-07-09,Basic,9.99,Monthly,Credit Card,2022-09-22,13,4,59.2,19.98,Yes,Monthly,No,,
+1248,Priya Smith,Female,28,UK,2024-06-18,Basic,9.99,Yearly,UPI,2026-06-26,15,9,8.2,2877.12,Yes,Annual,No,,
+1249,Om Smith,Male,63,USA,2022-03-25,Premium,39.99,Yearly,UPI,2023-06-22,24,4,23.6,7198.2,Yes,Annual,Yes,2023-08-09,Features Missing
+1250,Aarav Sharma,Male,18,USA,2024-07-08,Standard,19.99,Yearly,PayPal,2025-03-28,4,6,84.7,1919.04,Yes,Annual,Yes,2025-04-21,Poor Support
+1251,Mia Patel,Female,33,USA,2024-04-29,Premium,39.99,Yearly,Credit Card,2026-08-17,17,8,78.8,13436.64,No,Annual,No,,
+1252,Mia Waghchaure,Male,30,Japan,2024-05-18,Standard,19.99,Monthly,Credit Card,2026-07-10,0,10,94.5,519.74,Yes,Monthly,Yes,2026-08-07,Low Usage
+1253,Anaya Johnson,Female,45,Japan,2022-12-28,Premium,39.99,Yearly,Debit Card,2024-11-10,0,6,158.1,10557.36,No,Annual,No,,
+1254,Priya Brown,Male,23,Germany,2022-12-03,Standard,19.99,Monthly,PayPal,2025-02-13,20,2,128.7,519.74,Yes,Monthly,No,,
+1255,Priya Sharma,Female,47,Australia,2022-08-08,Premium,39.99,Monthly,Credit Card,2024-10-08,58,6,176.5,1039.74,No,Monthly,No,,
+1256,Priya Brown,Male,25,Germany,2023-08-31,Premium,39.99,Yearly,UPI,2023-10-13,54,0,54.5,479.88,Yes,Monthly,No,,
+1257,Sophia Brown,Female,37,Australia,2023-08-15,Premium,39.99,Monthly,Debit Card,2025-04-29,38,10,44.4,799.8,Yes,Monthly,No,,
+1258,Noah Sharma,Female,63,Canada,2024-10-30,Standard,19.99,Monthly,PayPal,2026-11-17,35,9,161.7,479.76,No,Monthly,Yes,2026-11-28,Switched Competitor
+1259,Noah Waghchaure,Female,33,Japan,2023-04-27,Basic,9.99,Yearly,Credit Card,2024-09-19,9,1,169.9,2037.96,No,Monthly,No,,
+1260,Alex Waghchaure,Male,40,Japan,2024-12-30,Basic,9.99,Yearly,UPI,2026-03-04,46,10,97.9,1678.32,No,Annual,Yes,2026-04-28,Poor Support
+1261,Priya Patel,Male,28,India,2023-04-25,Premium,39.99,Yearly,PayPal,2024-09-05,58,4,122.4,7678.08,No,Monthly,Yes,2024-09-19,Switched Competitor
+1262,Noah Waghchaure,Female,22,Canada,2024-02-12,Premium,39.99,Yearly,Credit Card,2026-04-13,51,6,40.4,12476.88,Yes,Annual,No,,
+1263,Ethan Sharma,Male,56,Germany,2022-09-19,Standard,19.99,Monthly,Credit Card,2023-10-22,50,10,72.8,259.87,Yes,Annual,No,,
+1264,Ava Patel,Female,19,Germany,2024-12-23,Premium,39.99,Yearly,UPI,2026-12-01,50,1,137.8,11037.24,Yes,Annual,No,,
+1265,Anaya Brown,Male,41,India,2022-02-22,Standard,19.99,Monthly,Debit Card,2024-04-16,46,6,61.6,519.74,No,Annual,No,,
+1266,Noah Patel,Male,41,UK,2024-03-21,Premium,39.99,Yearly,Debit Card,2024-11-17,54,1,37.9,3839.04,Yes,Monthly,No,,
+1267,Om Johnson,Male,58,UK,2023-02-18,Basic,9.99,Yearly,Credit Card,2024-03-16,28,2,17.4,1558.44,Yes,Annual,No,,
+1268,Aarav Sharma,Male,41,Japan,2022-05-15,Premium,39.99,Monthly,Debit Card,2023-01-10,42,7,64.5,319.92,Yes,Monthly,No,,
+1269,Om Brown,Female,19,Japan,2024-12-27,Standard,19.99,Yearly,Credit Card,2025-02-04,1,8,40.8,239.88,No,Annual,No,,
+1270,Ava Johnson,Male,26,Canada,2025-02-22,Standard,19.99,Yearly,Debit Card,2026-11-21,53,4,23.6,5037.48,No,Monthly,No,,
+1271,Aarav Patel,Male,54,USA,2023-11-19,Basic,9.99,Monthly,PayPal,2024-01-13,7,1,33.5,9.99,No,Annual,No,,
+1272,John Waghchaure,Male,59,UK,2023-07-08,Premium,39.99,Yearly,UPI,2025-07-04,42,8,124.3,11517.12,Yes,Annual,Yes,2025-07-12,Features Missing
+1273,Emma Sharma,Male,44,Australia,2025-01-03,Premium,39.99,Monthly,UPI,2026-09-05,3,1,116.5,799.8,Yes,Monthly,No,,
+1274,Kabir Brown,Male,54,Germany,2022-12-10,Standard,19.99,Yearly,UPI,2024-04-11,29,4,23.6,3838.08,No,Annual,No,,
+1275,Ava Waghchaure,Male,35,India,2023-09-30,Basic,9.99,Monthly,Debit Card,2024-02-29,59,1,43.0,49.95,Yes,Annual,No,,
+1276,Priya Sharma,Female,26,Australia,2023-11-27,Standard,19.99,Yearly,Credit Card,2025-04-23,8,2,52.5,4077.96,Yes,Monthly,Yes,2025-04-28,Switched Competitor
+1277,Sophia Sharma,Male,57,India,2024-08-17,Premium,39.99,Monthly,PayPal,2025-03-03,4,5,18.9,239.94,No,Monthly,No,,
+1278,Aarav Brown,Female,48,Canada,2022-04-14,Standard,19.99,Yearly,PayPal,2022-09-09,24,4,112.6,959.52,Yes,Annual,No,,
+1279,Sophia Sharma,Female,19,India,2025-02-03,Premium,39.99,Monthly,Debit Card,2027-05-09,0,1,163.0,1079.73,Yes,Annual,Yes,2027-07-02,High Price
+1280,Liam Brown,Female,55,Germany,2024-01-30,Standard,19.99,Yearly,Credit Card,2024-03-04,47,1,104.6,239.88,Yes,Annual,Yes,2024-03-14,Switched Competitor
+1281,Noah Patel,Female,44,Australia,2024-09-07,Basic,9.99,Yearly,Debit Card,2026-04-25,7,4,120.7,2277.72,Yes,Annual,No,,
+1282,Aarav Smith,Female,45,India,2023-12-30,Premium,39.99,Monthly,Debit Card,2026-04-10,18,3,87.1,1079.73,No,Annual,No,,
+1283,Riya Brown,Female,35,USA,2023-07-03,Basic,9.99,Yearly,Credit Card,2024-06-22,23,0,125.3,1318.68,No,Monthly,No,,
+1284,Olivia Smith,Male,34,Germany,2022-01-07,Premium,39.99,Monthly,Debit Card,2022-04-06,51,10,114.9,79.98,Yes,Monthly,No,,
+1285,John Sharma,Female,57,India,2023-09-24,Basic,9.99,Monthly,UPI,2025-10-05,34,0,45.2,239.76,No,Annual,No,,
+1286,Aarav Patel,Female,22,Australia,2023-05-10,Basic,9.99,Yearly,PayPal,2023-09-08,41,7,106.8,479.52,Yes,Annual,No,,
+1287,John Waghchaure,Female,33,Germany,2024-02-10,Standard,19.99,Yearly,Credit Card,2025-10-11,5,10,44.4,4797.6,No,Annual,Yes,2025-12-01,High Price
+1288,Liam Sharma,Female,26,India,2025-01-26,Premium,39.99,Monthly,UPI,2025-08-20,28,4,114.7,239.94,No,Monthly,No,,
+1289,Ethan Patel,Male,58,India,2023-12-30,Premium,39.99,Yearly,PayPal,2025-09-03,28,0,17.4,9597.6,Yes,Monthly,No,,
+1290,Om Waghchaure,Male,32,Canada,2022-06-06,Basic,9.99,Yearly,Debit Card,2024-09-09,45,4,33.5,3236.76,No,Annual,No,,
+1291,Sophia Sharma,Female,37,Australia,2022-05-25,Basic,9.99,Monthly,UPI,2023-04-10,53,9,50.8,99.9,Yes,Monthly,No,,
+1292,John Sharma,Male,30,Japan,2024-12-15,Standard,19.99,Yearly,UPI,2027-02-22,49,8,97.0,6236.88,No,Monthly,No,,
+1293,Kabir Johnson,Male,46,USA,2022-08-06,Basic,9.99,Yearly,UPI,2023-03-31,16,10,172.2,839.16,No,Annual,Yes,2023-04-02,High Price
+1294,Anaya Johnson,Male,40,UK,2023-02-25,Standard,19.99,Yearly,Debit Card,2024-07-12,60,9,20.2,3838.08,Yes,Annual,No,,
+1295,Liam Waghchaure,Male,43,Australia,2024-07-21,Standard,19.99,Yearly,Debit Card,2026-12-03,40,8,36.0,6716.64,Yes,Annual,No,,
+1296,Kabir Johnson,Female,44,Australia,2025-01-13,Basic,9.99,Monthly,UPI,2026-09-27,5,10,127.4,199.8,No,Annual,No,,
+1297,Kabir Brown,Male,24,Australia,2023-03-17,Standard,19.99,Monthly,UPI,2023-11-28,46,0,114.4,159.92,Yes,Monthly,No,,
+1298,John Johnson,Male,27,Australia,2023-12-09,Premium,39.99,Yearly,UPI,2024-02-01,3,5,41.3,479.88,Yes,Monthly,No,,
+1299,Mia Sharma,Male,40,Japan,2024-05-01,Standard,19.99,Monthly,UPI,2025-01-17,27,1,84.8,159.92,No,Annual,No,,
+1300,Priya Patel,Male,27,Japan,2024-09-03,Premium,39.99,Monthly,Debit Card,2026-12-08,38,8,147.9,1079.73,Yes,Monthly,No,,
+1301,Mia Brown,Male,36,Japan,2022-06-16,Basic,9.99,Monthly,PayPal,2024-04-09,9,0,17.4,219.78,Yes,Monthly,No,,
+1302,Riya Waghchaure,Male,55,India,2023-05-24,Basic,9.99,Yearly,Credit Card,2025-04-28,27,6,154.0,2757.24,No,Monthly,No,,
+1303,Anaya Smith,Male,20,India,2023-07-09,Premium,39.99,Monthly,Debit Card,2025-01-18,20,9,96.2,719.82,No,Annual,No,,
+1304,Ava Johnson,Female,42,India,2024-03-07,Premium,39.99,Monthly,UPI,2024-06-01,12,8,94.6,79.98,Yes,Annual,Yes,2024-06-11,Features Missing
+1305,Ava Patel,Male,57,Canada,2025-02-03,Basic,9.99,Yearly,PayPal,2027-02-04,41,1,105.2,2877.12,No,Annual,No,,
+1306,Riya Johnson,Male,49,USA,2023-11-17,Basic,9.99,Monthly,PayPal,2026-02-14,5,8,124.8,269.73,No,Annual,Yes,2026-02-20,Switched Competitor
+1307,John Sharma,Female,39,Japan,2024-08-03,Premium,39.99,Monthly,Credit Card,2026-04-13,22,0,68.5,799.8,No,Monthly,Yes,2026-05-01,Switched Competitor
+1308,Mia Johnson,Male,45,Canada,2025-03-09,Basic,9.99,Monthly,Debit Card,2027-05-15,13,6,114.0,259.74,Yes,Monthly,Yes,2027-06-11,High Price
+1309,Sophia Sharma,Male,58,Germany,2023-08-04,Standard,19.99,Yearly,Debit Card,2024-01-12,8,4,8.4,1199.4,No,Monthly,No,,
+1310,Liam Johnson,Male,51,Japan,2023-07-10,Standard,19.99,Monthly,PayPal,2024-04-20,23,6,120.9,179.91,No,Monthly,No,,
+1311,Liam Smith,Female,60,USA,2025-02-15,Premium,39.99,Yearly,UPI,2025-04-09,52,7,131.9,479.88,Yes,Annual,Yes,2025-05-19,Low Usage
+1312,Kabir Waghchaure,Male,48,USA,2024-09-17,Standard,19.99,Monthly,Debit Card,2025-04-01,18,7,90.1,119.94,Yes,Annual,No,,
+1313,Emma Smith,Male,24,Germany,2023-04-20,Basic,9.99,Monthly,UPI,2025-03-27,48,6,77.0,229.77,No,Monthly,No,,
+1314,Priya Smith,Female,40,Germany,2022-04-24,Premium,39.99,Yearly,PayPal,2022-05-28,1,0,156.3,479.88,No,Monthly,No,,
+1315,John Smith,Female,31,India,2022-08-06,Premium,39.99,Yearly,Debit Card,2024-01-19,16,7,146.5,8157.96,Yes,Monthly,No,,
+1316,Emma Johnson,Female,32,USA,2022-04-02,Standard,19.99,Yearly,Debit Card,2024-03-05,49,5,64.2,5517.24,No,Annual,No,,
+1317,Priya Johnson,Female,34,UK,2025-04-13,Standard,19.99,Yearly,PayPal,2027-09-19,23,3,80.5,6956.52,Yes,Monthly,No,,
+1318,Ava Sharma,Male,27,India,2024-12-15,Premium,39.99,Monthly,UPI,2027-01-18,34,2,58.1,999.75,No,Monthly,No,,
+1319,Ava Waghchaure,Female,58,USA,2024-09-21,Standard,19.99,Monthly,UPI,2026-07-29,59,0,38.9,439.78,Yes,Annual,No,,
+1320,John Sharma,Male,54,Australia,2024-11-10,Basic,9.99,Yearly,Credit Card,2025-08-05,9,4,158.9,959.04,Yes,Monthly,Yes,2025-08-25,Features Missing
+1321,Noah Patel,Female,42,Canada,2022-07-21,Premium,39.99,Monthly,PayPal,2024-05-08,34,6,18.9,839.79,Yes,Monthly,No,,
+1322,Aarav Brown,Male,19,Canada,2023-03-15,Basic,9.99,Yearly,UPI,2025-05-29,7,3,153.1,3116.88,No,Annual,No,,
+1323,Riya Johnson,Male,48,UK,2022-05-03,Basic,9.99,Monthly,Credit Card,2024-05-15,26,8,134.1,239.76,No,Annual,No,,
+1324,Riya Patel,Female,50,Canada,2025-02-25,Basic,9.99,Monthly,Credit Card,2027-08-10,26,3,137.7,289.71,Yes,Monthly,No,,
+1325,Kabir Smith,Female,19,Canada,2024-10-21,Basic,9.99,Yearly,Debit Card,2026-12-29,51,9,115.9,3116.88,Yes,Annual,Yes,2027-02-12,Low Usage
+1326,Noah Patel,Male,62,Australia,2022-09-10,Standard,19.99,Yearly,UPI,2024-09-27,26,7,45.1,5757.12,No,Monthly,No,,
+1327,Anaya Johnson,Male,62,UK,2024-09-01,Basic,9.99,Monthly,Debit Card,2026-03-22,29,3,35.6,179.82,No,Monthly,No,,
+1328,Anaya Sharma,Male,34,Germany,2023-04-02,Basic,9.99,Monthly,PayPal,2024-06-28,14,10,38.1,149.85,Yes,Monthly,No,,
+1329,Emma Smith,Female,34,Germany,2024-03-08,Premium,39.99,Monthly,PayPal,2025-02-27,21,8,80.2,439.89,No,Annual,No,,
+1330,Kabir Waghchaure,Male,58,India,2024-06-17,Premium,39.99,Yearly,Debit Card,2025-02-28,57,8,94.0,3839.04,Yes,Annual,No,,
+1331,Riya Johnson,Male,46,India,2022-11-01,Basic,9.99,Yearly,Credit Card,2024-09-26,26,1,84.6,2757.24,No,Monthly,No,,
+1332,Ethan Patel,Male,56,Germany,2022-02-17,Basic,9.99,Monthly,UPI,2023-05-31,10,9,120.9,149.85,No,Monthly,No,,
+1333,Alex Waghchaure,Female,60,Germany,2024-11-12,Standard,19.99,Monthly,PayPal,2026-09-26,31,1,171.3,439.78,No,Monthly,Yes,2026-10-06,High Price
+1334,Priya Waghchaure,Male,57,USA,2024-08-17,Basic,9.99,Yearly,PayPal,2025-02-02,56,4,178.4,599.4,No,Monthly,No,,
+1335,Alex Waghchaure,Male,45,Australia,2024-03-06,Basic,9.99,Yearly,Debit Card,2026-05-08,43,4,167.3,3116.88,No,Monthly,No,,
+1336,Sophia Patel,Female,23,UK,2022-08-17,Basic,9.99,Yearly,Debit Card,2023-10-23,27,4,59.4,1678.32,No,Annual,No,,
+1337,Liam Brown,Female,38,Japan,2023-08-15,Standard,19.99,Yearly,Credit Card,2023-12-04,40,6,34.1,719.64,No,Monthly,No,,
+1338,Ethan Smith,Male,59,Germany,2022-05-02,Premium,39.99,Monthly,UPI,2022-11-22,59,5,72.8,239.94,Yes,Monthly,No,,
+1339,Om Sharma,Male,26,Japan,2022-07-23,Basic,9.99,Yearly,UPI,2024-09-25,10,0,86.1,3116.88,Yes,Annual,Yes,2024-10-05,Poor Support
+1340,Emma Johnson,Male,44,USA,2022-09-18,Basic,9.99,Monthly,PayPal,2024-06-03,8,7,134.7,199.8,Yes,Annual,No,,
+1341,Liam Sharma,Male,39,Germany,2022-12-23,Basic,9.99,Yearly,Credit Card,2024-08-28,37,7,140.1,2397.6,No,Monthly,No,,
+1342,Kabir Sharma,Female,42,Japan,2024-01-12,Standard,19.99,Monthly,Credit Card,2026-05-06,51,2,119.1,559.72,Yes,Annual,No,,
+1343,John Sharma,Male,45,USA,2023-12-19,Basic,9.99,Yearly,Debit Card,2024-02-10,41,8,64.1,119.88,No,Annual,No,,
+1344,Sophia Johnson,Female,19,Canada,2022-07-01,Premium,39.99,Monthly,UPI,2023-09-13,29,0,39.9,559.86,No,Monthly,No,,
+1345,Om Waghchaure,Female,36,India,2024-09-27,Standard,19.99,Yearly,PayPal,2027-01-03,20,7,80.2,6476.76,No,Monthly,No,,
+1346,Priya Brown,Female,33,Germany,2025-03-05,Basic,9.99,Monthly,UPI,2026-06-05,51,7,169.4,149.85,Yes,Annual,No,,
+1347,Ava Waghchaure,Female,41,Japan,2023-08-23,Basic,9.99,Yearly,Debit Card,2023-11-06,6,10,113.0,239.76,Yes,Monthly,No,,
+1348,John Brown,Female,29,Australia,2022-08-09,Standard,19.99,Monthly,PayPal,2022-11-04,60,2,54.3,39.98,No,Annual,No,,
+1349,Sophia Waghchaure,Female,35,India,2024-11-16,Basic,9.99,Yearly,PayPal,2025-04-25,31,3,74.6,599.4,No,Monthly,No,,
+1350,Alex Waghchaure,Male,38,Canada,2022-05-06,Standard,19.99,Monthly,PayPal,2023-06-17,33,0,137.7,259.87,Yes,Annual,No,,
+1351,Anaya Sharma,Female,61,UK,2023-06-02,Standard,19.99,Yearly,Credit Card,2024-04-16,22,10,24.8,2398.8,No,Monthly,No,,
+1352,Ethan Johnson,Female,29,India,2022-10-24,Basic,9.99,Yearly,PayPal,2024-06-11,55,10,49.1,2277.72,No,Annual,No,,
+1353,Emma Johnson,Male,61,USA,2022-04-09,Basic,9.99,Yearly,UPI,2023-04-10,40,10,36.5,1438.56,No,Annual,No,,
+1354,Priya Smith,Male,36,USA,2022-10-10,Premium,39.99,Yearly,Debit Card,2025-03-18,29,7,86.6,13916.52,No,Monthly,No,,
+1355,Kabir Sharma,Female,52,India,2025-04-09,Basic,9.99,Monthly,UPI,2025-11-11,52,8,61.0,69.93,No,Monthly,Yes,2026-01-10,Switched Competitor
+1356,Ethan Brown,Male,61,India,2022-01-02,Premium,39.99,Monthly,Debit Card,2023-10-13,55,3,123.0,839.79,Yes,Annual,No,,
+1357,Olivia Brown,Female,26,India,2022-05-24,Basic,9.99,Monthly,PayPal,2024-03-16,4,9,121.1,219.78,No,Annual,No,,
+1358,Aarav Brown,Male,49,Germany,2023-10-17,Standard,19.99,Yearly,UPI,2025-08-08,4,4,66.6,5277.36,No,Annual,No,,
+1359,John Johnson,Male,39,Canada,2024-09-29,Basic,9.99,Monthly,UPI,2027-02-18,29,2,169.5,289.71,No,Annual,No,,
+1360,Liam Brown,Female,26,Japan,2023-02-23,Standard,19.99,Monthly,Debit Card,2023-06-16,40,6,21.0,59.97,No,Monthly,No,,
+1361,Liam Waghchaure,Male,21,Germany,2022-11-10,Premium,39.99,Monthly,UPI,2025-04-12,7,1,121.3,1159.71,Yes,Annual,No,,
+1362,Mia Brown,Female,22,Canada,2023-10-26,Basic,9.99,Monthly,UPI,2024-04-12,10,7,115.7,49.95,No,Monthly,No,,
+1363,Kabir Smith,Male,40,India,2024-08-17,Premium,39.99,Yearly,Debit Card,2026-05-18,32,4,177.6,10077.48,Yes,Monthly,No,,
+1364,Anaya Patel,Male,55,Germany,2022-05-16,Premium,39.99,Monthly,UPI,2023-04-05,44,8,71.4,399.9,Yes,Annual,No,,
+1365,Priya Sharma,Female,32,Australia,2025-01-25,Premium,39.99,Monthly,UPI,2026-04-13,44,6,50.3,559.86,Yes,Monthly,No,,
+1366,Riya Smith,Female,46,USA,2024-07-31,Basic,9.99,Yearly,Credit Card,2025-01-18,52,1,118.6,599.4,Yes,Monthly,No,,
+1367,Anaya Patel,Male,37,USA,2023-07-29,Premium,39.99,Yearly,Debit Card,2024-09-16,40,5,31.5,6238.44,No,Annual,No,,
+1368,Ava Brown,Male,55,Germany,2022-12-12,Standard,19.99,Monthly,PayPal,2023-07-11,49,6,109.9,139.93,No,Monthly,Yes,2023-09-01,Poor Support
+1369,Noah Brown,Female,31,Australia,2025-01-19,Premium,39.99,Monthly,UPI,2026-03-26,51,2,83.9,559.86,No,Annual,Yes,2026-04-20,Poor Support
+1370,Emma Waghchaure,Female,32,UK,2024-07-04,Standard,19.99,Monthly,UPI,2025-09-10,9,6,17.0,279.86,Yes,Monthly,No,,
+1371,Priya Sharma,Female,21,India,2023-01-08,Basic,9.99,Monthly,Credit Card,2024-03-30,39,4,54.7,139.86,Yes,Monthly,No,,
+1372,Alex Patel,Male,65,Japan,2023-02-08,Basic,9.99,Monthly,Debit Card,2023-10-18,9,2,132.4,79.92,No,Monthly,No,,
+1373,Noah Waghchaure,Male,22,Australia,2023-03-29,Basic,9.99,Monthly,PayPal,2025-03-02,54,3,128.1,229.77,Yes,Monthly,Yes,2025-04-12,High Price
+1374,Ava Smith,Male,27,USA,2025-03-28,Premium,39.99,Monthly,PayPal,2025-12-15,6,6,145.3,319.92,Yes,Monthly,No,,
+1375,Mia Waghchaure,Female,47,Germany,2025-04-02,Standard,19.99,Monthly,UPI,2027-07-02,38,4,127.2,539.73,Yes,Monthly,No,,
+1376,Anaya Johnson,Male,47,Germany,2023-10-29,Basic,9.99,Monthly,Debit Card,2025-07-21,20,0,108.0,209.79,Yes,Monthly,Yes,2025-09-06,Low Usage
+1377,Riya Smith,Female,48,Japan,2023-02-21,Standard,19.99,Yearly,Credit Card,2025-01-27,28,0,116.6,5517.24,Yes,Annual,Yes,2025-01-29,Low Usage
+1378,Riya Johnson,Female,30,USA,2022-09-18,Basic,9.99,Yearly,UPI,2025-01-28,38,10,85.4,3356.64,Yes,Monthly,Yes,2025-03-08,Features Missing
+1379,John Johnson,Female,21,Germany,2022-07-13,Premium,39.99,Yearly,Debit Card,2022-10-02,46,2,175.9,959.76,Yes,Monthly,No,,
+1380,Ava Johnson,Female,25,UK,2024-12-21,Premium,39.99,Yearly,UPI,2026-03-04,50,1,16.1,6718.32,Yes,Annual,No,,
+1381,Alex Brown,Female,36,USA,2024-05-13,Basic,9.99,Yearly,PayPal,2024-08-31,32,10,28.9,359.64,No,Annual,Yes,2024-10-13,Switched Competitor
+1382,Noah Smith,Male,62,Canada,2022-11-17,Standard,19.99,Yearly,Debit Card,2024-08-26,57,6,138.8,5037.48,No,Monthly,No,,
+1383,Kabir Brown,Female,37,Australia,2023-07-15,Premium,39.99,Monthly,Debit Card,2024-01-14,5,9,22.5,239.94,Yes,Annual,No,,
+1384,Kabir Patel,Male,21,Germany,2022-09-13,Premium,39.99,Yearly,Debit Card,2025-02-22,24,3,85.5,13916.52,No,Monthly,No,,
+1385,Sophia Sharma,Male,59,Canada,2022-04-18,Basic,9.99,Yearly,Credit Card,2022-11-18,59,7,40.8,839.16,No,Monthly,No,,
+1386,Liam Smith,Female,40,Japan,2023-02-23,Basic,9.99,Yearly,UPI,2024-03-12,7,6,101.0,1438.56,No,Monthly,No,,
+1387,Ava Patel,Female,63,Australia,2022-02-06,Standard,19.99,Yearly,PayPal,2024-01-10,8,7,170.6,5517.24,Yes,Annual,No,,
+1388,Kabir Johnson,Female,62,Australia,2023-09-13,Standard,19.99,Yearly,UPI,2025-07-06,24,8,148.2,5277.36,Yes,Annual,No,,
+1389,Olivia Johnson,Female,23,USA,2023-05-20,Premium,39.99,Monthly,Debit Card,2025-06-04,13,4,146.2,959.76,No,Monthly,Yes,2025-06-29,Low Usage
+1390,Priya Brown,Female,57,USA,2022-11-06,Premium,39.99,Yearly,Debit Card,2023-05-05,22,0,112.0,2879.28,Yes,Monthly,Yes,2023-07-02,Low Usage
+1391,Om Johnson,Male,63,USA,2023-03-09,Standard,19.99,Yearly,Credit Card,2025-07-04,1,6,30.6,6716.64,No,Monthly,Yes,2025-08-02,Low Usage
+1392,Alex Waghchaure,Male,35,Germany,2024-05-17,Premium,39.99,Monthly,Credit Card,2026-09-03,36,0,172.6,1079.73,No,Annual,No,,
+1393,Olivia Sharma,Male,48,Japan,2023-07-23,Standard,19.99,Monthly,Debit Card,2023-10-04,25,3,171.6,39.98,Yes,Annual,No,,
+1394,Anaya Sharma,Female,24,Canada,2025-01-24,Basic,9.99,Monthly,PayPal,2027-02-01,13,10,60.1,239.76,No,Annual,No,,
+1395,Anaya Patel,Male,49,Japan,2022-09-18,Standard,19.99,Yearly,UPI,2024-03-03,42,1,105.4,4077.96,Yes,Annual,No,,
+1396,Alex Patel,Female,33,India,2022-06-18,Standard,19.99,Yearly,PayPal,2024-01-01,16,0,31.4,4317.84,Yes,Monthly,No,,
+1397,Om Waghchaure,Female,36,Australia,2022-10-04,Basic,9.99,Yearly,UPI,2024-10-07,15,0,139.6,2877.12,No,Monthly,Yes,2024-11-28,Switched Competitor
+1398,Alex Johnson,Male,56,Germany,2023-11-07,Basic,9.99,Monthly,Debit Card,2025-05-27,21,0,105.7,179.82,Yes,Monthly,No,,
+1399,Anaya Waghchaure,Male,44,Germany,2024-11-05,Premium,39.99,Yearly,UPI,2026-09-06,35,4,9.7,10557.36,Yes,Annual,No,,
+1400,Sophia Johnson,Male,36,Germany,2024-04-29,Premium,39.99,Yearly,PayPal,2024-11-16,16,4,36.7,2879.28,Yes,Monthly,No,,
+1401,Riya Johnson,Female,36,India,2024-07-19,Standard,19.99,Yearly,UPI,2024-10-19,43,9,34.6,719.64,Yes,Monthly,No,,
+1402,Alex Patel,Female,51,Germany,2022-09-28,Standard,19.99,Yearly,Credit Card,2023-01-01,59,3,74.7,719.64,Yes,Annual,No,,
+1403,Riya Johnson,Male,53,USA,2025-02-08,Standard,19.99,Yearly,Credit Card,2026-12-11,46,6,132.9,5277.36,Yes,Annual,No,,
+1404,Mia Waghchaure,Female,33,USA,2023-08-06,Standard,19.99,Monthly,PayPal,2024-02-19,37,10,24.5,119.94,No,Monthly,No,,
+1405,Riya Sharma,Male,21,Australia,2022-08-23,Standard,19.99,Monthly,UPI,2023-12-26,31,10,155.4,319.84,No,Annual,Yes,2024-01-28,Features Missing
+1406,Noah Patel,Female,33,Canada,2022-09-16,Standard,19.99,Monthly,PayPal,2024-03-24,31,0,78.7,359.82,Yes,Annual,Yes,2024-03-28,Switched Competitor
+1407,Mia Waghchaure,Female,37,USA,2024-11-12,Standard,19.99,Yearly,UPI,2024-12-13,47,6,169.9,239.88,No,Monthly,No,,
+1408,Liam Sharma,Female,30,Australia,2022-04-20,Basic,9.99,Yearly,Debit Card,2024-06-27,9,6,61.3,3116.88,Yes,Annual,No,,
+1409,Sophia Smith,Male,60,Canada,2023-10-27,Premium,39.99,Yearly,PayPal,2025-07-29,52,6,49.0,10077.48,No,Annual,No,,
+1410,Priya Waghchaure,Female,36,UK,2024-03-01,Standard,19.99,Yearly,UPI,2024-06-29,46,1,84.8,959.52,Yes,Annual,No,,
+1411,Riya Waghchaure,Female,25,UK,2022-12-17,Basic,9.99,Monthly,UPI,2024-03-29,24,7,22.4,149.85,Yes,Annual,No,,
+1412,Olivia Brown,Male,32,Japan,2022-10-12,Premium,39.99,Monthly,PayPal,2022-12-01,54,6,79.1,39.99,Yes,Annual,No,,
+1413,Olivia Brown,Male,42,Japan,2022-06-03,Standard,19.99,Yearly,Debit Card,2024-08-13,4,6,72.4,6236.88,Yes,Monthly,No,,
+1414,Kabir Brown,Male,22,UK,2025-02-17,Basic,9.99,Yearly,Debit Card,2027-06-23,14,6,7.2,3356.64,No,Annual,No,,
+1415,Sophia Smith,Male,39,UK,2023-03-24,Basic,9.99,Yearly,Credit Card,2023-06-27,16,1,145.1,359.64,Yes,Monthly,Yes,2023-07-25,Poor Support
+1416,Kabir Patel,Male,60,Germany,2024-06-27,Premium,39.99,Monthly,Credit Card,2025-04-12,41,1,119.4,359.91,No,Monthly,No,,
+1417,Noah Johnson,Male,42,Canada,2023-02-06,Basic,9.99,Monthly,UPI,2023-07-09,37,1,25.7,49.95,No,Monthly,No,,
+1418,Kabir Sharma,Female,41,Japan,2022-06-24,Basic,9.99,Yearly,PayPal,2024-06-15,0,8,118.4,2877.12,No,Monthly,No,,
+1419,Anaya Sharma,Male,45,USA,2024-07-07,Standard,19.99,Yearly,PayPal,2026-02-13,29,8,33.2,4557.72,No,Annual,No,,
+1420,Anaya Johnson,Male,49,Australia,2022-04-21,Basic,9.99,Monthly,UPI,2023-05-05,29,1,86.5,119.88,No,Annual,No,,
+1421,John Sharma,Female,47,India,2022-08-13,Premium,39.99,Yearly,Debit Card,2024-09-11,49,9,88.9,11997.0,No,Monthly,Yes,2024-10-16,High Price
+1422,Mia Patel,Female,53,UK,2022-04-16,Basic,9.99,Yearly,Credit Card,2023-01-23,21,6,105.6,1078.92,No,Annual,No,,
+1423,Ethan Brown,Female,30,Canada,2023-08-06,Premium,39.99,Monthly,Debit Card,2025-11-06,54,6,97.1,1079.73,No,Monthly,No,,
+1424,Riya Johnson,Male,55,UK,2022-12-29,Basic,9.99,Yearly,Debit Card,2023-05-17,23,2,177.4,479.52,No,Annual,No,,
+1425,Mia Sharma,Female,25,Australia,2022-09-13,Standard,19.99,Monthly,Credit Card,2024-03-02,42,2,126.0,339.83,No,Annual,Yes,2024-04-01,Features Missing
+1426,Mia Brown,Male,22,India,2024-03-04,Standard,19.99,Yearly,UPI,2025-01-19,27,2,160.3,2398.8,No,Annual,Yes,2025-03-06,Poor Support
+1427,Anaya Patel,Female,58,India,2022-08-25,Standard,19.99,Monthly,Debit Card,2023-07-11,34,10,13.0,199.9,Yes,Monthly,No,,
+1428,John Patel,Female,38,Japan,2024-09-19,Standard,19.99,Yearly,PayPal,2025-09-02,36,8,159.3,2638.68,Yes,Annual,No,,
+1429,Olivia Patel,Female,55,Japan,2025-03-04,Basic,9.99,Yearly,PayPal,2026-05-28,15,1,99.2,1798.2,Yes,Monthly,No,,
+1430,Sophia Johnson,Male,36,Germany,2022-07-21,Standard,19.99,Monthly,UPI,2022-12-07,50,4,60.5,79.96,Yes,Monthly,No,,
+1431,Om Sharma,Male,40,UK,2024-06-07,Standard,19.99,Monthly,Credit Card,2024-08-08,17,7,117.1,39.98,No,Annual,No,,
+1432,Aarav Brown,Male,32,UK,2022-09-07,Standard,19.99,Yearly,PayPal,2024-10-27,49,7,80.6,6236.88,Yes,Annual,No,,
+1433,Om Johnson,Female,45,India,2023-03-06,Basic,9.99,Yearly,PayPal,2024-08-10,11,2,127.1,2037.96,No,Annual,No,,
+1434,Priya Patel,Male,20,Canada,2022-09-17,Standard,19.99,Yearly,UPI,2022-11-01,31,0,144.2,239.88,No,Annual,No,,
+1435,Om Johnson,Female,40,India,2022-09-02,Premium,39.99,Yearly,Credit Card,2024-09-08,11,7,30.5,11517.12,Yes,Annual,No,,
+1436,Priya Brown,Female,52,UK,2024-02-15,Standard,19.99,Monthly,PayPal,2025-06-11,7,8,33.3,319.84,Yes,Annual,No,,
+1437,Aarav Smith,Female,25,Japan,2025-01-08,Premium,39.99,Monthly,Credit Card,2026-04-15,10,4,162.7,599.85,No,Annual,No,,
+1438,Riya Sharma,Male,44,Japan,2024-06-26,Standard,19.99,Yearly,PayPal,2024-11-04,40,6,64.1,959.52,Yes,Annual,No,,
+1439,Ava Smith,Male,23,Germany,2023-08-17,Standard,19.99,Yearly,PayPal,2024-10-26,19,10,34.3,3358.32,Yes,Annual,No,,
+1440,Olivia Patel,Male,21,Australia,2023-09-02,Standard,19.99,Yearly,Debit Card,2025-08-25,18,0,81.0,5757.12,No,Monthly,No,,
+1441,Mia Sharma,Female,39,Germany,2024-01-09,Basic,9.99,Yearly,PayPal,2026-04-16,26,6,145.5,3236.76,No,Monthly,No,,
+1442,Olivia Smith,Female,29,Canada,2022-06-19,Basic,9.99,Monthly,UPI,2023-04-04,11,4,40.4,89.91,Yes,Annual,No,,
+1443,Priya Waghchaure,Male,35,Canada,2024-04-05,Premium,39.99,Monthly,PayPal,2025-02-26,24,0,95.1,399.9,No,Annual,No,,
+1444,Olivia Patel,Female,52,Germany,2022-09-13,Basic,9.99,Yearly,Debit Card,2022-11-27,4,1,5.1,239.76,Yes,Monthly,No,,
+1445,Riya Waghchaure,Female,19,Australia,2024-12-21,Basic,9.99,Yearly,UPI,2025-02-10,14,2,131.0,119.88,Yes,Monthly,No,,
+1446,Liam Patel,Female,50,Germany,2025-02-04,Premium,39.99,Yearly,PayPal,2026-10-06,52,8,117.3,9597.6,Yes,Annual,No,,
+1447,John Patel,Male,53,India,2023-06-24,Basic,9.99,Yearly,UPI,2024-10-07,14,8,33.1,1798.2,No,Monthly,No,,
+1448,Liam Patel,Female,36,Germany,2023-01-28,Basic,9.99,Yearly,UPI,2023-05-10,56,8,53.9,359.64,No,Monthly,No,,
+1449,Ethan Sharma,Female,26,Australia,2023-07-15,Premium,39.99,Yearly,Credit Card,2025-07-15,26,0,41.0,11517.12,Yes,Annual,No,,
+1450,Mia Patel,Male,33,UK,2024-05-16,Premium,39.99,Yearly,Credit Card,2026-01-03,30,10,27.0,9117.72,Yes,Annual,Yes,2026-02-13,Poor Support
+1451,Alex Sharma,Male,23,Japan,2024-11-02,Basic,9.99,Yearly,Debit Card,2027-04-14,5,7,74.2,3476.52,No,Annual,No,,
+1452,Priya Patel,Female,51,USA,2023-05-20,Premium,39.99,Yearly,Debit Card,2025-02-09,37,8,135.6,10077.48,No,Annual,No,,
+1453,Sophia Patel,Male,41,USA,2023-01-08,Basic,9.99,Yearly,PayPal,2024-05-11,50,7,179.4,1918.08,No,Monthly,Yes,2024-06-01,Features Missing
+1454,Anaya Patel,Female,19,UK,2023-05-08,Basic,9.99,Yearly,PayPal,2024-11-23,6,3,117.8,2157.84,No,Annual,Yes,2024-12-24,Switched Competitor
+1455,Liam Brown,Male,44,Germany,2024-10-07,Premium,39.99,Monthly,Credit Card,2025-12-15,58,5,34.5,559.86,No,Annual,No,,
+1456,John Johnson,Male,62,USA,2024-09-20,Basic,9.99,Monthly,Debit Card,2025-03-05,37,0,90.2,49.95,Yes,Monthly,No,,
+1457,Priya Sharma,Male,27,Germany,2023-11-13,Standard,19.99,Monthly,Debit Card,2024-06-01,7,1,80.9,119.94,No,Annual,Yes,2024-06-10,Low Usage
+1458,Priya Johnson,Female,46,India,2024-02-24,Premium,39.99,Yearly,PayPal,2024-06-22,31,6,113.7,1439.64,Yes,Monthly,Yes,2024-07-11,Poor Support
+1459,Alex Johnson,Female,25,UK,2023-07-07,Standard,19.99,Monthly,UPI,2025-06-11,35,4,158.1,459.77,Yes,Annual,No,,
+1460,Om Sharma,Female,28,Canada,2022-08-07,Basic,9.99,Monthly,UPI,2024-07-06,45,5,6.9,229.77,Yes,Annual,No,,
+1461,Ava Patel,Male,32,Canada,2024-04-12,Basic,9.99,Yearly,Credit Card,2026-07-29,55,1,38.3,3236.76,Yes,Annual,No,,
+1462,Noah Brown,Female,19,Germany,2022-12-26,Standard,19.99,Monthly,Debit Card,2023-09-21,14,2,7.6,159.92,No,Annual,No,,
+1463,Riya Brown,Male,47,UK,2024-07-15,Standard,19.99,Yearly,Debit Card,2026-05-24,37,0,94.3,5277.36,No,Monthly,No,,
+1464,Mia Patel,Male,40,Germany,2024-10-30,Premium,39.99,Yearly,UPI,2026-08-15,17,7,83.1,10077.48,Yes,Annual,No,,
+1465,Om Smith,Female,37,Germany,2022-09-04,Basic,9.99,Yearly,Debit Card,2022-10-29,25,2,28.2,119.88,Yes,Annual,No,,
+1466,Olivia Johnson,Female,60,India,2024-02-20,Standard,19.99,Yearly,Credit Card,2026-05-14,13,2,62.0,6476.76,No,Monthly,No,,
+1467,Kabir Patel,Female,22,Germany,2024-09-13,Standard,19.99,Monthly,UPI,2026-12-29,18,5,135.7,539.73,No,Monthly,No,,
+1468,Liam Brown,Female,48,UK,2024-03-22,Standard,19.99,Monthly,Credit Card,2026-05-11,25,6,138.6,519.74,Yes,Monthly,No,,
+1469,Kabir Patel,Male,30,Canada,2022-04-08,Premium,39.99,Yearly,Credit Card,2024-03-05,3,10,5.5,11037.24,No,Annual,Yes,2024-03-13,Low Usage
+1470,Anaya Sharma,Male,57,USA,2024-07-14,Premium,39.99,Yearly,Debit Card,2024-11-24,58,0,152.7,1919.52,Yes,Annual,No,,
+1471,Mia Brown,Female,64,Canada,2024-09-29,Standard,19.99,Monthly,UPI,2025-01-21,8,6,111.1,59.97,No,Annual,Yes,2025-03-14,Features Missing
+1472,Om Smith,Male,48,Canada,2024-08-20,Basic,9.99,Monthly,PayPal,2025-10-23,19,5,135.0,139.86,Yes,Annual,No,,
+1473,Emma Waghchaure,Female,63,Japan,2023-05-05,Premium,39.99,Monthly,Credit Card,2025-09-13,2,3,175.8,1119.72,Yes,Annual,Yes,2025-10-29,High Price
+1474,Liam Johnson,Male,20,Australia,2022-04-15,Basic,9.99,Yearly,UPI,2023-07-24,28,10,126.7,1798.2,No,Monthly,No,,
+1475,Liam Johnson,Female,46,Germany,2023-04-02,Premium,39.99,Yearly,PayPal,2024-11-11,16,2,106.6,9117.72,No,Annual,No,,
+1476,Om Sharma,Male,48,India,2022-03-20,Standard,19.99,Yearly,PayPal,2024-02-17,28,10,176.9,5517.24,No,Annual,No,,
+1477,Ethan Smith,Male,37,UK,2025-02-20,Premium,39.99,Yearly,Debit Card,2026-07-30,3,1,140.4,8157.96,Yes,Annual,No,,
+1478,Sophia Johnson,Female,61,Australia,2023-10-19,Basic,9.99,Monthly,Debit Card,2024-08-08,45,5,22.1,89.91,No,Monthly,No,,
+1479,Aarav Johnson,Female,27,India,2024-07-28,Basic,9.99,Monthly,Debit Card,2025-11-09,25,2,88.8,149.85,Yes,Monthly,No,,
+1480,Ethan Waghchaure,Male,27,Australia,2023-05-04,Premium,39.99,Monthly,Debit Card,2025-08-16,43,7,33.2,1079.73,Yes,Monthly,Yes,2025-09-08,High Price
+1481,Anaya Smith,Male,27,Germany,2022-01-23,Basic,9.99,Monthly,Debit Card,2023-04-23,53,0,157.3,149.85,No,Annual,No,,
+1482,Sophia Johnson,Female,43,India,2022-07-25,Premium,39.99,Monthly,PayPal,2024-09-25,58,3,103.9,1039.74,No,Monthly,No,,
+1483,Riya Smith,Female,65,India,2024-04-23,Premium,39.99,Monthly,Debit Card,2026-04-23,8,2,104.6,959.76,No,Annual,No,,
+1484,Riya Brown,Female,27,UK,2024-10-31,Basic,9.99,Monthly,Credit Card,2025-12-02,58,2,115.7,129.87,No,Monthly,Yes,2026-01-23,High Price
+1485,Sophia Patel,Female,47,Canada,2023-04-06,Basic,9.99,Monthly,PayPal,2025-07-22,17,0,82.1,269.73,Yes,Monthly,No,,
+1486,Anaya Waghchaure,Male,33,USA,2023-02-01,Premium,39.99,Yearly,Credit Card,2023-11-08,59,7,161.7,4318.92,No,Annual,No,,
+1487,Ethan Sharma,Male,32,Japan,2025-01-22,Premium,39.99,Monthly,Credit Card,2026-11-18,21,8,136.1,879.78,Yes,Annual,Yes,2027-01-15,Switched Competitor
+1488,Mia Smith,Female,51,Canada,2025-03-27,Premium,39.99,Monthly,UPI,2026-06-17,8,7,131.8,559.86,No,Monthly,No,,
+1489,Ava Waghchaure,Female,34,India,2023-07-22,Standard,19.99,Monthly,Debit Card,2025-08-24,18,3,145.2,499.75,No,Annual,No,,
+1490,Sophia Brown,Male,19,USA,2022-12-18,Basic,9.99,Monthly,PayPal,2024-10-29,41,2,50.4,219.78,Yes,Annual,No,,
+1491,Olivia Johnson,Female,34,USA,2025-03-19,Basic,9.99,Monthly,PayPal,2026-04-20,34,4,54.4,129.87,Yes,Monthly,No,,
+1492,Sophia Waghchaure,Female,61,Canada,2024-11-09,Premium,39.99,Yearly,Credit Card,2025-12-30,16,1,130.4,6238.44,Yes,Annual,No,,
+1493,Riya Patel,Female,21,Germany,2023-07-03,Premium,39.99,Yearly,Credit Card,2025-11-08,42,8,165.8,13436.64,No,Monthly,Yes,2025-12-20,Features Missing
+1494,Alex Smith,Female,44,UK,2023-09-02,Basic,9.99,Yearly,PayPal,2025-06-09,12,4,101.2,2517.48,No,Monthly,No,,
+1495,Alex Smith,Male,26,UK,2023-03-15,Basic,9.99,Monthly,UPI,2025-06-23,48,9,39.4,269.73,No,Annual,No,,
+1496,Alex Sharma,Male,48,USA,2022-07-12,Basic,9.99,Monthly,UPI,2023-09-01,55,0,136.4,129.87,No,Annual,No,,
+1497,Anaya Waghchaure,Male,30,UK,2022-03-24,Basic,9.99,Monthly,Debit Card,2022-09-22,39,7,133.7,59.94,Yes,Annual,No,,
+1498,John Patel,Female,43,Canada,2022-09-06,Basic,9.99,Monthly,Credit Card,2024-01-10,35,7,38.1,159.84,No,Annual,No,,
+1499,Alex Johnson,Male,45,Germany,2022-01-31,Standard,19.99,Yearly,Debit Card,2024-05-02,11,4,20.4,6476.76,No,Monthly,No,,
+1500,Liam Waghchaure,Female,64,UK,2024-05-29,Premium,39.99,Yearly,UPI,2026-11-01,35,9,92.3,13916.52,No,Annual,Yes,2026-11-23,Poor Support
+1501,Sophia Sharma,Male,44,Japan,2022-01-06,Premium,39.99,Yearly,Debit Card,2023-04-09,18,5,123.7,7198.2,Yes,Annual,No,,
+1502,Kabir Brown,Female,19,USA,2024-07-26,Standard,19.99,Yearly,PayPal,2026-01-17,43,4,167.3,4317.84,Yes,Annual,No,,
+1503,John Waghchaure,Male,45,Germany,2023-02-08,Premium,39.99,Yearly,UPI,2025-03-20,25,1,97.8,11997.0,Yes,Monthly,No,,
+1504,Alex Smith,Male,34,Germany,2025-03-11,Standard,19.99,Yearly,Debit Card,2027-01-08,33,1,55.7,5277.36,No,Annual,Yes,2027-01-30,Poor Support
+1505,Alex Waghchaure,Female,33,Australia,2024-03-21,Standard,19.99,Yearly,PayPal,2026-02-28,2,9,176.1,5517.24,No,Annual,No,,
+1506,Olivia Waghchaure,Female,34,India,2022-01-21,Premium,39.99,Yearly,Credit Card,2023-12-07,26,1,171.7,10557.36,No,Annual,No,,
+1507,Kabir Smith,Female,46,Canada,2022-08-08,Premium,39.99,Monthly,Debit Card,2022-12-09,51,8,167.3,159.96,Yes,Monthly,No,,
+1508,Liam Patel,Male,38,Japan,2024-04-15,Standard,19.99,Yearly,Credit Card,2025-08-30,31,6,114.5,3838.08,No,Annual,Yes,2025-10-03,Poor Support
+1509,Kabir Patel,Female,28,Germany,2024-06-21,Premium,39.99,Monthly,UPI,2025-11-23,22,9,56.5,679.83,Yes,Annual,No,,
+1510,Sophia Brown,Female,27,USA,2025-01-09,Premium,39.99,Yearly,Debit Card,2027-02-05,40,7,98.7,11997.0,No,Annual,No,,
+1511,Kabir Patel,Female,52,India,2022-10-26,Basic,9.99,Monthly,Credit Card,2024-08-02,45,2,51.0,209.79,Yes,Monthly,No,,
+1512,Mia Patel,Female,53,Australia,2022-08-15,Standard,19.99,Yearly,UPI,2024-02-17,29,2,61.6,4317.84,Yes,Annual,No,,
+1513,Om Sharma,Female,56,Canada,2022-08-01,Premium,39.99,Monthly,Credit Card,2023-06-24,38,8,72.9,399.9,No,Annual,Yes,2023-08-05,Low Usage
+1514,Mia Smith,Male,51,UK,2022-12-31,Premium,39.99,Yearly,Credit Card,2023-09-12,5,4,89.0,3839.04,Yes,Annual,No,,
+1515,Emma Patel,Male,39,Canada,2024-06-13,Standard,19.99,Yearly,PayPal,2026-04-27,47,1,66.5,5277.36,Yes,Annual,No,,
+1516,Ava Johnson,Female,19,Australia,2024-10-15,Basic,9.99,Monthly,Credit Card,2027-02-03,29,4,88.0,279.72,Yes,Annual,No,,
+1517,Kabir Brown,Male,64,Germany,2024-10-31,Standard,19.99,Yearly,PayPal,2026-05-19,9,0,70.7,4317.84,Yes,Annual,Yes,2026-05-22,Low Usage
+1518,Riya Johnson,Male,51,Canada,2024-06-13,Standard,19.99,Yearly,Credit Card,2024-08-13,28,2,50.3,479.76,Yes,Monthly,No,,
+1519,Olivia Sharma,Male,47,UK,2022-11-20,Basic,9.99,Yearly,Credit Card,2024-10-27,11,6,22.3,2757.24,No,Monthly,No,,
+1520,Sophia Waghchaure,Male,23,Japan,2022-07-07,Standard,19.99,Monthly,Debit Card,2023-12-22,0,4,102.0,339.83,No,Annual,Yes,2024-01-13,Poor Support
+1521,Riya Patel,Female,43,USA,2023-03-29,Premium,39.99,Monthly,Credit Card,2023-08-12,15,6,38.3,159.96,No,Monthly,No,,
+1522,John Brown,Female,57,Australia,2023-05-02,Standard,19.99,Yearly,UPI,2024-07-07,56,7,115.8,3358.32,No,Monthly,Yes,2024-07-09,High Price
+1523,Ethan Patel,Male,48,USA,2024-12-25,Premium,39.99,Yearly,Debit Card,2026-03-21,54,10,96.0,7198.2,No,Annual,No,,
+1524,Anaya Brown,Female,61,UK,2023-07-23,Basic,9.99,Yearly,UPI,2025-03-04,56,9,42.1,2277.72,Yes,Annual,No,,
+1525,Emma Johnson,Male,48,USA,2025-04-07,Basic,9.99,Monthly,UPI,2025-06-29,49,3,173.4,19.98,Yes,Monthly,Yes,2025-07-17,Poor Support
+1526,Riya Patel,Male,61,Canada,2023-02-28,Standard,19.99,Yearly,Debit Card,2024-12-27,20,7,99.2,5277.36,Yes,Annual,No,,
+1527,Liam Brown,Male,56,UK,2022-05-08,Standard,19.99,Monthly,Credit Card,2024-01-23,50,2,135.9,399.8,Yes,Monthly,No,,
+1528,Priya Johnson,Male,48,India,2025-01-10,Standard,19.99,Monthly,Credit Card,2027-06-01,33,5,67.6,579.71,Yes,Annual,No,,
+1529,Kabir Waghchaure,Female,48,India,2023-10-11,Basic,9.99,Yearly,PayPal,2025-05-07,33,0,85.1,2277.72,Yes,Monthly,No,,
+1530,Emma Smith,Male,42,Germany,2022-05-25,Premium,39.99,Yearly,Credit Card,2023-01-31,22,6,32.4,3839.04,No,Annual,Yes,2023-03-17,Features Missing
+1531,Ethan Smith,Male,34,Japan,2023-02-20,Basic,9.99,Monthly,UPI,2025-07-11,28,3,47.2,289.71,No,Monthly,No,,
+1532,Liam Waghchaure,Female,42,Japan,2024-10-22,Basic,9.99,Yearly,PayPal,2026-12-21,7,6,153.8,3116.88,No,Annual,No,,
+1533,John Brown,Male,19,Japan,2022-01-09,Standard,19.99,Yearly,Debit Card,2023-08-30,49,2,100.3,4557.72,Yes,Annual,No,,
+1534,Ava Brown,Male,65,Germany,2024-05-06,Basic,9.99,Yearly,Credit Card,2026-08-05,53,6,67.6,3236.76,Yes,Annual,No,,
+1535,Noah Patel,Male,32,UK,2022-11-09,Premium,39.99,Monthly,Credit Card,2024-10-22,15,10,108.6,919.77,Yes,Monthly,No,,
+1536,Olivia Brown,Female,39,Canada,2025-01-20,Basic,9.99,Yearly,Debit Card,2026-06-03,48,0,134.2,1918.08,Yes,Monthly,Yes,2026-06-19,Switched Competitor
+1537,John Johnson,Male,34,Japan,2022-02-09,Basic,9.99,Yearly,UPI,2024-05-27,40,10,73.4,3236.76,Yes,Monthly,No,,
+1538,Ethan Smith,Male,44,Germany,2023-09-25,Premium,39.99,Yearly,Debit Card,2024-02-14,16,2,81.5,1919.52,No,Monthly,Yes,2024-04-03,Features Missing
+1539,Sophia Waghchaure,Female,21,Australia,2022-10-12,Standard,19.99,Monthly,Debit Card,2023-08-18,45,6,119.1,199.9,Yes,Monthly,No,,
+1540,Riya Waghchaure,Male,40,Australia,2023-09-24,Premium,39.99,Monthly,Credit Card,2025-12-21,8,1,115.7,1079.73,No,Annual,No,,
+1541,Riya Johnson,Female,51,Canada,2024-09-19,Premium,39.99,Monthly,Debit Card,2025-07-09,59,0,6.6,359.91,No,Annual,No,,
+1542,Emma Smith,Female,20,Japan,2022-03-14,Premium,39.99,Yearly,Debit Card,2024-04-26,30,9,30.0,11997.0,No,Monthly,No,,
+1543,Priya Waghchaure,Male,65,Canada,2025-02-05,Premium,39.99,Yearly,UPI,2026-07-08,3,0,120.3,8157.96,Yes,Monthly,No,,
+1544,Mia Johnson,Male,63,USA,2022-06-20,Standard,19.99,Yearly,PayPal,2023-02-25,50,0,19.5,1919.04,No,Monthly,Yes,2023-04-07,Switched Competitor
+1545,Noah Smith,Male,56,Australia,2025-02-03,Premium,39.99,Yearly,PayPal,2026-10-22,22,5,135.6,9597.6,Yes,Annual,Yes,2026-12-07,High Price
+1546,Ava Waghchaure,Male,38,Australia,2022-06-07,Premium,39.99,Yearly,Debit Card,2023-10-14,39,6,108.8,7678.08,Yes,Annual,No,,
+1547,Om Waghchaure,Female,45,Canada,2022-11-25,Standard,19.99,Monthly,UPI,2025-04-12,52,3,118.6,559.72,No,Annual,Yes,2025-05-29,Low Usage
+1548,Sophia Patel,Male,34,UK,2023-11-12,Basic,9.99,Monthly,UPI,2025-12-28,19,0,89.1,249.75,Yes,Annual,No,,
+1549,Om Brown,Male,25,Germany,2024-05-18,Standard,19.99,Yearly,PayPal,2026-08-22,45,8,66.8,6476.76,No,Annual,Yes,2026-09-30,Features Missing
+1550,Kabir Waghchaure,Female,44,Germany,2023-09-30,Premium,39.99,Monthly,Debit Card,2025-09-26,16,2,101.5,959.76,Yes,Annual,No,,
+1551,Sophia Johnson,Male,56,Canada,2022-08-18,Basic,9.99,Yearly,UPI,2024-06-10,9,5,129.8,2637.36,No,Monthly,No,,
+1552,Anaya Waghchaure,Female,22,Canada,2022-11-25,Standard,19.99,Yearly,UPI,2024-06-25,2,2,11.5,4557.72,No,Monthly,Yes,2024-07-12,Switched Competitor
+1553,Noah Smith,Female,32,Canada,2024-11-27,Premium,39.99,Yearly,Debit Card,2026-12-29,49,5,153.7,11997.0,Yes,Monthly,Yes,2027-01-04,Poor Support
+1554,Alex Sharma,Female,21,India,2024-02-20,Standard,19.99,Yearly,PayPal,2025-10-28,8,8,65.9,4797.6,No,Annual,No,,
+1555,Kabir Johnson,Male,32,Germany,2023-06-21,Premium,39.99,Yearly,Credit Card,2023-09-02,41,4,152.6,959.76,Yes,Monthly,No,,
+1556,Mia Smith,Male,30,Australia,2024-04-25,Premium,39.99,Yearly,Credit Card,2025-06-18,2,3,85.1,6238.44,Yes,Monthly,No,,
+1557,Kabir Smith,Male,36,Canada,2022-01-24,Standard,19.99,Yearly,PayPal,2022-03-02,60,3,162.0,239.88,No,Monthly,Yes,2022-04-12,Switched Competitor
+1558,Alex Sharma,Female,46,Germany,2025-03-15,Premium,39.99,Monthly,UPI,2027-06-14,14,10,7.4,1079.73,Yes,Monthly,No,,
+1559,Emma Brown,Male,44,UK,2024-04-23,Premium,39.99,Monthly,Debit Card,2025-08-20,21,6,79.7,639.84,No,Monthly,No,,
+1560,Liam Patel,Male,39,India,2023-04-22,Premium,39.99,Yearly,Credit Card,2024-02-12,59,9,145.7,4318.92,No,Monthly,No,,
+1561,Alex Smith,Male,55,Japan,2024-11-22,Premium,39.99,Yearly,UPI,2027-03-25,25,9,62.5,13436.64,Yes,Annual,Yes,2027-05-13,Poor Support
+1562,Kabir Smith,Male,58,Germany,2022-03-13,Premium,39.99,Yearly,Debit Card,2023-05-26,16,0,69.2,6718.32,No,Monthly,No,,
+1563,Emma Sharma,Male,33,Japan,2024-02-22,Standard,19.99,Monthly,UPI,2024-12-21,60,2,16.7,199.9,No,Monthly,No,,
+1564,Mia Smith,Male,37,Australia,2023-09-21,Standard,19.99,Monthly,UPI,2024-10-14,46,2,30.9,239.88,Yes,Annual,No,,
+1565,Ethan Waghchaure,Female,31,Canada,2024-10-11,Standard,19.99,Monthly,PayPal,2025-04-12,57,9,35.4,119.94,Yes,Annual,No,,
+1566,Emma Sharma,Male,23,USA,2024-11-07,Premium,39.99,Yearly,Credit Card,2025-03-23,30,7,82.4,1919.52,No,Monthly,Yes,2025-05-05,Switched Competitor
+1567,Mia Smith,Male,55,USA,2024-04-15,Basic,9.99,Monthly,PayPal,2026-09-14,44,5,81.4,289.71,No,Annual,No,,
+1568,Om Waghchaure,Male,43,Japan,2023-11-22,Basic,9.99,Yearly,Debit Card,2024-04-21,41,5,163.6,599.4,Yes,Annual,No,,
+1569,Riya Sharma,Female,33,Germany,2022-01-13,Premium,39.99,Yearly,Debit Card,2023-01-25,39,10,145.2,5758.56,Yes,Monthly,No,,
+1570,Alex Sharma,Female,44,Japan,2023-07-02,Basic,9.99,Yearly,Debit Card,2024-12-03,37,2,30.5,2037.96,No,Monthly,No,,
+1571,Om Brown,Female,61,UK,2022-10-03,Basic,9.99,Monthly,Credit Card,2023-11-14,1,1,31.7,129.87,No,Monthly,No,,
+1572,Kabir Johnson,Female,38,UK,2024-11-11,Premium,39.99,Monthly,Debit Card,2026-12-08,46,10,150.3,999.75,Yes,Monthly,No,,
+1573,Emma Patel,Female,28,Canada,2023-11-17,Basic,9.99,Yearly,Debit Card,2025-08-02,42,6,34.8,2397.6,Yes,Monthly,No,,
+1574,Emma Waghchaure,Male,52,Japan,2023-08-05,Basic,9.99,Monthly,Debit Card,2025-07-29,36,4,79.9,239.76,Yes,Monthly,No,,
+1575,Ethan Brown,Female,23,USA,2023-08-06,Basic,9.99,Yearly,Credit Card,2024-02-02,15,4,8.3,719.28,No,Annual,No,,
+1576,Aarav Sharma,Male,65,India,2023-05-14,Basic,9.99,Monthly,Credit Card,2025-08-30,33,7,136.3,269.73,Yes,Monthly,No,,
+1577,Anaya Sharma,Female,44,Australia,2023-03-01,Standard,19.99,Yearly,UPI,2025-06-07,43,1,131.2,6476.76,Yes,Monthly,No,,
+1578,Anaya Patel,Male,54,Germany,2025-02-11,Basic,9.99,Monthly,Debit Card,2027-06-10,59,0,41.3,279.72,No,Annual,No,,
+1579,Kabir Patel,Male,18,USA,2023-03-23,Basic,9.99,Monthly,PayPal,2024-09-19,36,5,114.4,179.82,No,Monthly,No,,
+1580,Noah Patel,Male,52,Japan,2023-02-27,Basic,9.99,Yearly,Credit Card,2023-12-27,20,4,177.4,1198.8,No,Monthly,No,,
+1581,Priya Brown,Female,58,Japan,2023-04-19,Basic,9.99,Monthly,Debit Card,2024-11-21,1,5,147.0,189.81,No,Monthly,No,,
+1582,Kabir Patel,Female,45,USA,2024-07-26,Premium,39.99,Yearly,Credit Card,2025-04-15,8,1,158.0,3839.04,Yes,Annual,Yes,2025-05-17,Features Missing
+1583,Kabir Brown,Female,18,USA,2023-05-02,Premium,39.99,Yearly,Debit Card,2024-08-22,38,9,41.2,7198.2,No,Monthly,No,,
+1584,Anaya Johnson,Female,37,Germany,2022-06-08,Standard,19.99,Monthly,PayPal,2022-12-04,3,8,14.2,99.95,No,Annual,Yes,2022-12-31,Features Missing
+1585,Olivia Brown,Female,49,Australia,2024-12-02,Premium,39.99,Yearly,Debit Card,2025-10-20,56,10,69.2,4798.8,No,Monthly,No,,
+1586,Om Smith,Male,34,Canada,2022-12-02,Premium,39.99,Yearly,Debit Card,2025-03-22,54,4,156.4,13436.64,Yes,Monthly,Yes,2025-04-15,Poor Support
+1587,Ava Patel,Male,51,India,2024-11-21,Standard,19.99,Yearly,PayPal,2025-09-15,8,3,56.8,2158.92,Yes,Monthly,No,,
+1588,Aarav Patel,Male,43,Canada,2025-02-11,Basic,9.99,Yearly,PayPal,2026-01-10,4,0,13.3,1318.68,Yes,Monthly,No,,
+1589,Priya Brown,Male,22,India,2023-10-12,Basic,9.99,Monthly,Credit Card,2025-09-01,58,1,127.1,229.77,Yes,Annual,No,,
+1590,Noah Smith,Female,21,India,2023-03-23,Basic,9.99,Monthly,Credit Card,2025-07-24,49,9,31.2,279.72,No,Monthly,No,,
+1591,Anaya Brown,Male,26,Japan,2023-08-13,Basic,9.99,Monthly,UPI,2024-02-09,23,9,51.6,59.94,Yes,Annual,Yes,2024-04-04,Poor Support
+1592,Emma Johnson,Male,42,Australia,2022-01-25,Standard,19.99,Yearly,PayPal,2024-06-29,8,9,113.0,6956.52,Yes,Annual,No,,
+1593,Emma Brown,Male,20,Canada,2022-03-28,Basic,9.99,Yearly,Credit Card,2023-02-26,36,1,96.0,1318.68,Yes,Annual,No,,
+1594,Emma Smith,Female,44,Canada,2023-05-23,Standard,19.99,Monthly,Debit Card,2023-11-02,4,7,59.9,99.95,Yes,Annual,Yes,2023-12-05,Features Missing
+1595,Priya Sharma,Male,22,USA,2022-03-12,Basic,9.99,Monthly,Debit Card,2023-10-02,20,1,47.5,179.82,No,Monthly,Yes,2023-10-28,Features Missing
+1596,Liam Brown,Female,47,Canada,2024-04-05,Standard,19.99,Monthly,Debit Card,2024-11-19,49,9,169.4,139.93,No,Monthly,No,,
+1597,Ava Waghchaure,Male,35,Germany,2023-04-09,Standard,19.99,Yearly,Credit Card,2023-12-15,5,1,57.1,1919.04,No,Annual,No,,
+1598,Kabir Sharma,Male,43,Canada,2022-03-09,Premium,39.99,Monthly,Debit Card,2023-11-30,45,2,6.2,839.79,No,Annual,Yes,2023-12-26,Low Usage
+1599,John Smith,Male,52,Canada,2024-05-21,Premium,39.99,Monthly,UPI,2026-10-26,31,10,52.6,1159.71,No,Annual,No,,
+1600,Anaya Brown,Male,62,Australia,2023-05-20,Basic,9.99,Monthly,Debit Card,2025-10-05,7,5,165.7,279.72,No,Annual,No,,
+1601,Olivia Smith,Female,33,Japan,2022-12-03,Standard,19.99,Monthly,UPI,2024-03-12,12,4,46.9,299.85,Yes,Annual,No,,
+1602,Priya Johnson,Female,18,Japan,2023-08-07,Premium,39.99,Monthly,Credit Card,2024-04-12,18,3,119.0,319.92,Yes,Annual,No,,
+1603,Mia Brown,Female,44,India,2024-11-06,Standard,19.99,Monthly,Debit Card,2025-11-12,32,4,79.8,239.88,Yes,Monthly,Yes,2025-11-20,Features Missing
+1604,Sophia Waghchaure,Male,52,Germany,2022-07-30,Premium,39.99,Yearly,UPI,2023-05-07,11,5,47.5,4318.92,Yes,Monthly,No,,
+1605,Anaya Waghchaure,Male,27,USA,2022-04-15,Basic,9.99,Yearly,Credit Card,2024-05-14,12,10,151.6,2997.0,No,Monthly,No,,
+1606,Priya Johnson,Female,58,Japan,2023-01-29,Basic,9.99,Yearly,Debit Card,2024-08-13,51,1,178.1,2157.84,Yes,Annual,Yes,2024-10-03,Low Usage
+1607,Olivia Sharma,Female,47,UK,2022-06-11,Basic,9.99,Monthly,UPI,2024-10-21,37,3,139.4,279.72,Yes,Monthly,Yes,2024-10-26,High Price
+1608,Noah Brown,Female,28,Germany,2024-11-20,Premium,39.99,Monthly,UPI,2026-11-01,14,3,6.3,919.77,No,Annual,No,,
+1609,Priya Patel,Male,21,Germany,2024-05-10,Premium,39.99,Monthly,Credit Card,2025-02-23,14,2,103.2,359.91,No,Annual,No,,
+1610,Sophia Brown,Male,23,UK,2022-09-10,Basic,9.99,Monthly,UPI,2024-12-23,13,8,98.5,269.73,Yes,Annual,No,,
+1611,Aarav Brown,Female,61,Japan,2025-01-23,Basic,9.99,Monthly,Debit Card,2026-03-19,18,10,156.8,139.86,No,Annual,Yes,2026-05-11,Low Usage
+1612,Aarav Brown,Female,31,India,2022-05-12,Standard,19.99,Yearly,UPI,2023-03-04,15,10,38.5,2158.92,No,Annual,No,,
+1613,Mia Johnson,Male,28,USA,2022-09-11,Basic,9.99,Yearly,Credit Card,2023-12-27,0,1,115.4,1798.2,Yes,Monthly,No,,
+1614,Mia Johnson,Female,38,UK,2023-07-30,Premium,39.99,Yearly,Debit Card,2023-09-11,52,8,164.7,479.88,Yes,Monthly,Yes,2023-10-20,High Price
+1615,Aarav Waghchaure,Male,50,India,2022-04-24,Basic,9.99,Yearly,Debit Card,2024-08-14,27,10,131.8,3356.64,No,Monthly,No,,
+1616,Alex Patel,Male,43,India,2024-04-26,Standard,19.99,Monthly,UPI,2025-12-21,53,8,11.6,399.8,Yes,Annual,No,,
+1617,Priya Brown,Female,31,USA,2022-01-25,Basic,9.99,Monthly,Credit Card,2022-05-25,10,9,173.1,39.96,No,Annual,No,,
+1618,Riya Sharma,Female,32,Canada,2022-02-06,Standard,19.99,Yearly,PayPal,2024-07-12,26,10,35.7,6956.52,Yes,Annual,No,,
+1619,Om Brown,Female,27,UK,2023-03-29,Standard,19.99,Monthly,UPI,2024-06-14,28,3,6.0,279.86,Yes,Monthly,No,,
+1620,Noah Waghchaure,Male,40,Canada,2024-12-08,Premium,39.99,Monthly,PayPal,2026-05-24,41,2,8.8,679.83,Yes,Monthly,No,,
+1621,John Patel,Male,29,USA,2024-05-22,Basic,9.99,Monthly,Credit Card,2024-10-26,55,10,44.2,49.95,Yes,Annual,No,,
+1622,Riya Johnson,Male,20,UK,2023-09-07,Basic,9.99,Yearly,Credit Card,2025-10-13,6,2,161.5,2997.0,No,Annual,No,,
+1623,Aarav Patel,Male,43,Australia,2024-06-22,Premium,39.99,Monthly,Credit Card,2026-08-19,15,10,139.1,1039.74,No,Monthly,No,,
+1624,Ava Johnson,Male,42,Australia,2023-12-03,Standard,19.99,Monthly,UPI,2026-01-25,54,10,59.1,519.74,No,Annual,No,,
+1625,Sophia Smith,Male,31,Germany,2024-01-15,Standard,19.99,Monthly,Debit Card,2025-05-11,20,9,98.5,319.84,Yes,Monthly,No,,
+1626,Priya Johnson,Female,23,Germany,2022-11-16,Basic,9.99,Monthly,PayPal,2022-12-29,16,0,106.8,9.99,No,Annual,No,,
+1627,Om Patel,Female,48,India,2022-10-04,Standard,19.99,Monthly,PayPal,2024-02-14,22,3,169.8,319.84,Yes,Annual,No,,
+1628,Olivia Sharma,Female,57,UK,2023-10-17,Premium,39.99,Yearly,Debit Card,2024-01-20,13,10,119.1,1439.64,No,Monthly,No,,
+1629,Kabir Smith,Male,23,Germany,2023-09-02,Basic,9.99,Monthly,PayPal,2025-06-06,32,5,46.3,209.79,No,Annual,Yes,2025-06-07,Switched Competitor
+1630,Riya Smith,Male,31,Germany,2022-11-12,Basic,9.99,Yearly,UPI,2023-04-27,58,7,171.9,599.4,No,Annual,Yes,2023-05-13,High Price
+1631,Ethan Johnson,Male,35,India,2024-01-04,Basic,9.99,Yearly,Debit Card,2025-11-25,36,4,113.6,2757.24,Yes,Annual,No,,
+1632,Sophia Waghchaure,Female,50,Japan,2024-10-16,Premium,39.99,Monthly,Credit Card,2026-11-23,29,9,178.7,999.75,No,Monthly,No,,
+1633,Alex Johnson,Female,64,Japan,2023-10-26,Standard,19.99,Yearly,Credit Card,2024-11-22,24,4,132.2,3118.44,No,Monthly,No,,
+1634,Alex Sharma,Male,24,Germany,2023-11-12,Premium,39.99,Monthly,Credit Card,2024-03-29,49,3,154.3,159.96,Yes,Monthly,Yes,2024-05-08,High Price
+1635,Noah Johnson,Male,22,India,2022-08-24,Premium,39.99,Monthly,UPI,2023-06-28,20,1,76.2,399.9,No,Monthly,No,,
+1636,Om Patel,Female,33,Canada,2023-03-11,Premium,39.99,Yearly,Credit Card,2025-05-11,23,10,10.6,12476.88,No,Annual,No,,
+1637,Emma Patel,Female,58,Japan,2024-08-09,Standard,19.99,Yearly,Debit Card,2025-03-10,22,2,56.4,1679.16,No,Monthly,No,,
+1638,Liam Waghchaure,Male,31,USA,2022-08-16,Premium,39.99,Monthly,UPI,2023-08-22,23,3,98.2,479.88,No,Annual,Yes,2023-09-10,Switched Competitor
+1639,Om Waghchaure,Male,37,USA,2024-12-11,Basic,9.99,Yearly,Credit Card,2026-04-19,41,3,61.1,1918.08,Yes,Annual,No,,
+1640,Olivia Sharma,Female,42,Germany,2024-07-21,Premium,39.99,Monthly,UPI,2024-11-21,47,3,13.2,159.96,Yes,Annual,Yes,2024-12-19,High Price
+1641,Ava Patel,Female,33,USA,2023-09-15,Premium,39.99,Monthly,Debit Card,2024-05-11,35,4,129.8,279.93,Yes,Annual,No,,
+1642,John Johnson,Female,19,India,2022-08-12,Basic,9.99,Monthly,Credit Card,2024-05-19,13,7,89.5,209.79,No,Annual,No,,
+1643,John Waghchaure,Female,26,India,2024-03-05,Standard,19.99,Monthly,Debit Card,2024-09-22,44,4,95.7,119.94,Yes,Annual,No,,
+1644,Olivia Waghchaure,Female,33,Canada,2023-09-26,Basic,9.99,Monthly,UPI,2025-11-25,56,10,32.9,259.74,No,Annual,Yes,2025-12-14,Low Usage
+1645,Kabir Johnson,Female,46,UK,2024-05-17,Premium,39.99,Yearly,Credit Card,2025-01-03,49,3,140.4,3359.16,Yes,Monthly,Yes,2025-02-05,Switched Competitor
+1646,Mia Brown,Female,26,India,2023-11-23,Basic,9.99,Monthly,Credit Card,2025-03-10,22,3,144.4,149.85,No,Monthly,No,,
+1647,Kabir Waghchaure,Male,55,Canada,2022-11-04,Premium,39.99,Monthly,Debit Card,2024-10-12,51,9,25.3,919.77,No,Annual,No,,
+1648,Priya Patel,Male,44,UK,2023-12-05,Premium,39.99,Yearly,UPI,2025-11-28,38,2,79.5,11517.12,Yes,Monthly,No,,
+1649,Ava Brown,Male,63,UK,2023-06-27,Premium,39.99,Monthly,UPI,2025-02-16,43,1,65.6,799.8,No,Monthly,Yes,2025-03-14,Switched Competitor
+1650,Aarav Waghchaure,Female,50,Germany,2023-07-30,Premium,39.99,Yearly,Debit Card,2025-06-13,19,3,101.5,10557.36,No,Annual,No,,
+1651,Riya Patel,Female,61,Japan,2023-03-13,Basic,9.99,Yearly,UPI,2025-03-01,16,0,160.9,2757.24,No,Annual,No,,
+1652,Om Sharma,Female,45,USA,2022-03-16,Basic,9.99,Monthly,Credit Card,2024-04-06,40,1,72.5,249.75,Yes,Monthly,No,,
+1653,Sophia Patel,Female,22,Japan,2022-12-24,Standard,19.99,Yearly,Credit Card,2023-10-08,28,7,132.6,2158.92,Yes,Monthly,No,,
+1654,Kabir Sharma,Female,44,Japan,2022-03-05,Basic,9.99,Monthly,Debit Card,2023-06-14,60,10,157.5,149.85,Yes,Monthly,No,,
+1655,Ava Patel,Male,44,Germany,2025-03-27,Basic,9.99,Yearly,Debit Card,2027-08-03,52,9,131.4,3356.64,Yes,Annual,No,,
+1656,Olivia Smith,Female,37,Canada,2023-08-19,Basic,9.99,Monthly,Credit Card,2024-10-18,7,9,82.0,139.86,Yes,Monthly,Yes,2024-12-10,Low Usage
+1657,John Smith,Female,48,Japan,2022-09-04,Standard,19.99,Yearly,Credit Card,2023-11-25,27,4,84.5,3358.32,Yes,Annual,No,,
+1658,John Brown,Female,33,USA,2023-09-14,Premium,39.99,Yearly,Debit Card,2024-08-21,11,1,50.2,5278.68,Yes,Monthly,No,,
+1659,Olivia Sharma,Male,47,UK,2022-04-02,Premium,39.99,Yearly,Debit Card,2022-07-31,11,0,32.7,1919.52,Yes,Annual,No,,
+1660,Om Patel,Male,53,USA,2022-11-01,Premium,39.99,Yearly,Debit Card,2024-09-27,52,10,124.7,11037.24,Yes,Monthly,No,,
+1661,Ava Johnson,Female,25,Canada,2022-03-21,Standard,19.99,Yearly,UPI,2023-08-27,37,9,136.8,4077.96,No,Monthly,No,,
+1662,Ava Waghchaure,Male,34,UK,2022-10-26,Premium,39.99,Monthly,UPI,2025-01-18,13,6,136.3,1079.73,Yes,Monthly,Yes,2025-02-27,Switched Competitor
+1663,John Johnson,Male,20,UK,2023-04-23,Basic,9.99,Monthly,Debit Card,2023-08-09,53,10,133.3,29.97,Yes,Annual,No,,
+1664,Alex Smith,Female,49,USA,2023-02-17,Premium,39.99,Yearly,PayPal,2025-02-23,24,9,153.7,11517.12,No,Annual,No,,
+1665,Riya Waghchaure,Female,40,Germany,2022-10-27,Premium,39.99,Yearly,PayPal,2025-03-27,16,2,84.3,13916.52,No,Annual,No,,
+1666,Anaya Smith,Female,36,Australia,2023-08-23,Premium,39.99,Monthly,Credit Card,2025-03-25,28,1,73.7,759.81,No,Monthly,No,,
+1667,Emma Patel,Female,21,Germany,2024-03-05,Standard,19.99,Monthly,Credit Card,2024-11-05,36,6,23.4,159.92,No,Annual,No,,
+1668,Priya Waghchaure,Female,22,UK,2022-05-19,Standard,19.99,Yearly,PayPal,2023-10-08,30,4,24.4,3838.08,Yes,Annual,Yes,2023-11-13,Low Usage
+1669,Om Johnson,Female,27,India,2022-08-27,Basic,9.99,Monthly,Debit Card,2022-11-02,16,1,15.0,19.98,Yes,Annual,No,,
+1670,Riya Johnson,Male,47,Australia,2024-02-16,Basic,9.99,Yearly,PayPal,2025-11-18,50,1,178.8,2517.48,Yes,Monthly,No,,
+1671,Alex Smith,Male,22,UK,2025-03-30,Premium,39.99,Monthly,Credit Card,2027-07-05,37,0,154.3,1079.73,Yes,Monthly,Yes,2027-08-08,Features Missing
+1672,Alex Sharma,Male,28,Australia,2025-01-26,Basic,9.99,Monthly,PayPal,2025-08-06,8,1,126.7,59.94,No,Monthly,No,,
+1673,Kabir Sharma,Male,27,India,2022-03-05,Premium,39.99,Yearly,PayPal,2022-09-01,12,9,49.9,2879.28,No,Monthly,No,,
+1674,Priya Brown,Male,25,Japan,2024-11-25,Premium,39.99,Yearly,UPI,2026-06-16,32,8,83.1,8637.84,Yes,Monthly,No,,
+1675,Ava Johnson,Male,31,Canada,2023-10-09,Premium,39.99,Yearly,Debit Card,2024-07-04,29,10,140.7,3839.04,Yes,Monthly,No,,
+1676,Ava Brown,Male,37,Canada,2024-02-09,Premium,39.99,Yearly,UPI,2024-03-21,19,8,27.9,479.88,No,Monthly,Yes,2024-05-20,High Price
+1677,Kabir Johnson,Female,48,Japan,2025-01-04,Premium,39.99,Yearly,Credit Card,2026-06-13,4,3,38.5,8157.96,Yes,Monthly,Yes,2026-08-06,Poor Support
+1678,Riya Patel,Female,20,India,2023-06-09,Basic,9.99,Monthly,PayPal,2024-05-23,4,1,22.3,109.89,No,Monthly,No,,
+1679,Aarav Brown,Female,26,Australia,2024-05-26,Standard,19.99,Yearly,PayPal,2024-09-02,39,3,102.7,719.64,No,Annual,Yes,2024-10-17,Switched Competitor
+1680,Priya Brown,Female,53,Australia,2025-02-26,Standard,19.99,Yearly,Debit Card,2027-04-14,28,6,90.6,5997.0,No,Monthly,No,,
+1681,Alex Waghchaure,Female,64,Germany,2022-08-03,Premium,39.99,Monthly,UPI,2022-12-14,17,5,61.2,159.96,Yes,Monthly,Yes,2022-12-27,Switched Competitor
+1682,Anaya Brown,Female,59,Australia,2022-07-16,Basic,9.99,Yearly,Debit Card,2023-12-02,3,2,161.1,1918.08,No,Monthly,Yes,2023-12-09,Poor Support
+1683,Om Johnson,Female,34,India,2022-12-19,Standard,19.99,Yearly,Credit Card,2024-10-23,40,7,109.8,5277.36,Yes,Monthly,No,,
+1684,Alex Brown,Female,53,Japan,2023-07-13,Basic,9.99,Monthly,UPI,2025-07-07,40,4,166.8,239.76,No,Monthly,No,,
+1685,Om Brown,Male,48,Canada,2024-08-08,Standard,19.99,Monthly,Debit Card,2027-01-14,47,6,40.7,579.71,No,Annual,Yes,2027-02-23,Switched Competitor
+1686,Olivia Smith,Male,30,Germany,2023-09-12,Standard,19.99,Yearly,Credit Card,2023-12-23,31,9,45.5,719.64,No,Monthly,No,,
+1687,John Smith,Male,21,Australia,2024-04-17,Basic,9.99,Yearly,PayPal,2025-10-04,3,6,178.7,2037.96,No,Monthly,No,,
+1688,Ava Patel,Male,20,USA,2023-06-03,Basic,9.99,Monthly,UPI,2023-09-05,23,3,23.2,29.97,No,Annual,Yes,2023-10-18,Features Missing
+1689,Kabir Brown,Female,40,USA,2024-06-18,Premium,39.99,Monthly,Debit Card,2024-10-20,2,2,27.8,159.96,No,Monthly,Yes,2024-11-09,Low Usage
+1690,Ethan Waghchaure,Male,27,India,2025-02-17,Premium,39.99,Yearly,Credit Card,2026-05-29,7,10,174.3,7198.2,No,Annual,No,,
+1691,Olivia Patel,Female,32,Germany,2025-02-26,Basic,9.99,Monthly,PayPal,2026-04-23,52,9,99.6,139.86,No,Annual,No,,
+1692,Kabir Johnson,Male,19,Canada,2023-03-04,Standard,19.99,Yearly,PayPal,2023-08-15,56,2,29.2,1199.4,Yes,Monthly,Yes,2023-10-13,Features Missing
+1693,Riya Patel,Male,59,Canada,2024-04-23,Standard,19.99,Monthly,Debit Card,2025-08-22,23,4,14.9,319.84,Yes,Annual,No,,
+1694,Kabir Waghchaure,Male,60,Australia,2022-10-31,Basic,9.99,Yearly,UPI,2024-09-12,45,7,157.0,2637.36,Yes,Annual,No,,
+1695,Mia Brown,Female,52,Australia,2024-10-07,Standard,19.99,Yearly,Debit Card,2026-06-13,45,3,92.3,4797.6,No,Monthly,No,,
+1696,Noah Patel,Female,63,Canada,2023-02-08,Basic,9.99,Yearly,UPI,2025-02-23,32,3,116.6,2877.12,Yes,Annual,No,,
+1697,Emma Smith,Male,44,USA,2022-03-18,Premium,39.99,Monthly,UPI,2024-06-06,32,9,76.6,1079.73,No,Monthly,No,,
+1698,Mia Patel,Male,27,Australia,2025-04-14,Premium,39.99,Monthly,PayPal,2027-01-27,17,4,163.2,839.79,Yes,Monthly,No,,
+1699,Riya Brown,Female,53,India,2024-05-13,Premium,39.99,Monthly,PayPal,2024-08-23,47,7,16.6,119.97,Yes,Annual,No,,
+1700,Ethan Sharma,Male,38,UK,2022-12-21,Standard,19.99,Yearly,Credit Card,2023-02-04,42,7,33.1,239.88,Yes,Monthly,Yes,2023-02-22,Poor Support
+1701,Emma Smith,Male,48,Germany,2024-09-11,Premium,39.99,Yearly,Credit Card,2025-08-17,51,3,55.0,5278.68,Yes,Annual,No,,
+1702,Priya Patel,Female,36,Japan,2024-05-08,Standard,19.99,Monthly,UPI,2024-12-07,30,7,127.9,139.93,Yes,Annual,No,,
+1703,Om Brown,Female,57,USA,2022-01-19,Premium,39.99,Yearly,Credit Card,2022-08-23,6,7,98.7,3359.16,No,Annual,Yes,2022-09-08,Features Missing
+1704,Sophia Sharma,Male,31,UK,2025-02-23,Standard,19.99,Monthly,PayPal,2025-09-26,21,9,59.0,139.93,No,Monthly,No,,
+1705,Alex Patel,Male,50,Japan,2024-06-10,Premium,39.99,Yearly,PayPal,2024-08-08,22,0,77.0,479.88,Yes,Annual,Yes,2024-08-24,Switched Competitor
+1706,Kabir Patel,Male,44,Japan,2023-07-30,Standard,19.99,Yearly,PayPal,2025-06-15,45,1,150.0,5277.36,No,Monthly,No,,
+1707,Mia Brown,Female,60,UK,2023-10-10,Standard,19.99,Yearly,Debit Card,2024-08-28,12,9,67.3,2398.8,Yes,Annual,No,,
+1708,Anaya Patel,Female,50,Japan,2024-02-03,Basic,9.99,Monthly,UPI,2025-09-17,25,7,6.2,189.81,Yes,Monthly,No,,
+1709,John Smith,Male,58,Japan,2022-02-20,Basic,9.99,Monthly,UPI,2023-06-08,55,7,90.3,149.85,No,Monthly,No,,
+1710,Olivia Waghchaure,Male,33,UK,2024-07-24,Premium,39.99,Monthly,UPI,2024-11-05,57,5,34.7,119.97,Yes,Annual,No,,
+1711,Om Patel,Female,21,Australia,2024-09-10,Basic,9.99,Monthly,Debit Card,2025-12-18,17,9,61.6,149.85,No,Monthly,No,,
+1712,Aarav Waghchaure,Female,49,India,2023-08-28,Standard,19.99,Yearly,PayPal,2025-01-06,44,2,63.0,3838.08,Yes,Annual,No,,
+1713,Olivia Johnson,Male,30,Germany,2023-02-19,Premium,39.99,Monthly,Credit Card,2024-07-08,44,0,167.2,639.84,No,Monthly,No,,
+1714,Liam Waghchaure,Male,20,Australia,2022-04-20,Standard,19.99,Monthly,PayPal,2023-04-02,32,10,167.5,219.89,No,Monthly,No,,
+1715,Mia Sharma,Male,48,Germany,2025-01-21,Premium,39.99,Monthly,UPI,2027-05-14,2,4,143.5,1119.72,Yes,Annual,No,,
+1716,Om Patel,Female,57,Canada,2024-06-09,Basic,9.99,Yearly,Debit Card,2026-10-06,2,0,152.7,3356.64,No,Annual,No,,
+1717,Sophia Patel,Female,51,USA,2024-05-28,Basic,9.99,Yearly,Credit Card,2025-09-06,48,6,26.9,1798.2,No,Annual,Yes,2025-09-17,Features Missing
+1718,Anaya Smith,Female,34,India,2024-10-09,Premium,39.99,Monthly,UPI,2024-11-18,1,10,145.2,39.99,Yes,Annual,Yes,2024-12-16,Features Missing
+1719,Aarav Patel,Male,30,Germany,2024-12-16,Basic,9.99,Monthly,UPI,2027-03-03,42,0,10.7,259.74,No,Annual,No,,
+1720,Emma Patel,Male,63,Canada,2023-01-25,Standard,19.99,Yearly,Credit Card,2023-11-15,49,3,79.9,2158.92,No,Monthly,No,,
+1721,Liam Patel,Female,45,Canada,2022-10-23,Standard,19.99,Monthly,Credit Card,2023-12-26,57,7,9.9,279.86,No,Monthly,No,,
+1722,Liam Johnson,Female,51,USA,2023-09-06,Basic,9.99,Yearly,Debit Card,2024-07-14,52,5,125.0,1198.8,No,Monthly,No,,
+1723,Priya Patel,Male,53,Australia,2025-01-30,Premium,39.99,Monthly,UPI,2025-11-29,56,9,162.0,399.9,No,Monthly,No,,
+1724,Noah Waghchaure,Male,47,India,2023-12-29,Standard,19.99,Yearly,UPI,2025-04-12,8,0,88.5,3598.2,No,Annual,Yes,2025-04-20,Low Usage
+1725,Liam Sharma,Male,54,Germany,2024-02-26,Basic,9.99,Monthly,UPI,2026-08-12,23,1,179.2,289.71,No,Monthly,Yes,2026-09-28,High Price
+1726,Sophia Sharma,Female,35,USA,2024-03-08,Standard,19.99,Monthly,PayPal,2025-08-10,38,0,48.8,339.83,Yes,Annual,Yes,2025-10-09,Poor Support
+1727,John Patel,Female,22,UK,2022-12-03,Premium,39.99,Monthly,Credit Card,2023-01-28,25,3,86.3,39.99,Yes,Annual,No,,
+1728,Riya Johnson,Male,61,USA,2022-09-20,Standard,19.99,Monthly,UPI,2023-12-12,35,3,27.9,279.86,No,Monthly,Yes,2023-12-16,Switched Competitor
+1729,Priya Waghchaure,Female,43,India,2024-04-20,Basic,9.99,Monthly,PayPal,2024-08-12,6,8,80.6,29.97,No,Monthly,No,,
+1730,Kabir Sharma,Female,61,India,2024-05-14,Premium,39.99,Monthly,Credit Card,2025-10-20,35,3,25.0,679.83,No,Annual,No,,
+1731,Anaya Sharma,Female,44,UK,2024-07-22,Standard,19.99,Monthly,Debit Card,2026-12-11,4,0,142.9,579.71,Yes,Annual,No,,
+1732,Liam Patel,Female,28,Germany,2022-04-22,Basic,9.99,Yearly,PayPal,2022-07-02,15,7,108.3,239.76,Yes,Monthly,No,,
+1733,Riya Smith,Male,46,Australia,2022-10-11,Standard,19.99,Yearly,Credit Card,2024-08-22,3,5,74.4,5277.36,No,Monthly,Yes,2024-09-10,Poor Support
+1734,Anaya Sharma,Male,24,Germany,2024-03-21,Premium,39.99,Monthly,Credit Card,2026-08-11,24,0,100.3,1159.71,Yes,Annual,No,,
+1735,Olivia Sharma,Male,57,Japan,2023-08-12,Basic,9.99,Yearly,UPI,2025-03-01,36,0,76.0,2157.84,Yes,Monthly,No,,
+1736,Kabir Patel,Male,57,India,2023-01-24,Standard,19.99,Monthly,UPI,2025-01-02,19,4,54.4,459.77,No,Annual,No,,
+1737,Ava Waghchaure,Female,38,Canada,2022-05-12,Basic,9.99,Monthly,PayPal,2022-12-11,28,4,10.9,69.93,Yes,Monthly,No,,
+1738,Olivia Waghchaure,Male,52,Japan,2024-10-09,Basic,9.99,Monthly,Credit Card,2026-09-21,17,3,37.0,229.77,Yes,Annual,Yes,2026-10-18,Low Usage
+1739,John Smith,Male,53,India,2022-06-11,Standard,19.99,Yearly,Debit Card,2022-08-08,55,3,146.2,239.88,No,Monthly,Yes,2022-08-29,Switched Competitor
+1740,Anaya Brown,Female,57,USA,2022-06-16,Basic,9.99,Yearly,Debit Card,2024-07-11,20,0,177.9,2997.0,No,Annual,No,,
+1741,Om Patel,Male,38,Australia,2024-03-26,Standard,19.99,Monthly,UPI,2024-06-07,54,2,168.5,39.98,Yes,Annual,Yes,2024-06-08,Poor Support
+1742,Alex Brown,Male,49,UK,2024-06-06,Standard,19.99,Yearly,UPI,2025-05-07,21,10,104.9,2638.68,No,Monthly,Yes,2025-06-29,Low Usage
+1743,Sophia Sharma,Female,57,Germany,2024-06-20,Standard,19.99,Yearly,PayPal,2025-01-12,35,9,38.3,1439.28,No,Annual,No,,
+1744,Noah Waghchaure,Male,37,Australia,2023-05-22,Premium,39.99,Yearly,UPI,2024-03-08,13,5,102.0,4318.92,Yes,Monthly,Yes,2024-03-16,High Price
+1745,Aarav Sharma,Female,34,Germany,2025-03-02,Basic,9.99,Yearly,Debit Card,2026-06-02,10,8,78.9,1798.2,No,Monthly,Yes,2026-07-06,Switched Competitor
+1746,Noah Johnson,Male,63,Canada,2023-08-23,Standard,19.99,Monthly,PayPal,2025-07-01,45,0,145.2,439.78,No,Monthly,No,,
+1747,John Smith,Male,64,UK,2024-11-08,Basic,9.99,Yearly,UPI,2026-09-12,35,0,30.6,2637.36,No,Monthly,No,,
+1748,Mia Waghchaure,Male,28,UK,2022-11-23,Basic,9.99,Monthly,PayPal,2024-04-06,44,2,31.5,159.84,Yes,Monthly,No,,
+1749,Noah Smith,Male,63,Canada,2023-04-18,Standard,19.99,Monthly,PayPal,2025-02-09,7,5,37.3,439.78,Yes,Annual,Yes,2025-04-02,Low Usage
+1750,John Waghchaure,Male,57,USA,2023-02-09,Basic,9.99,Monthly,Debit Card,2023-06-19,16,2,40.6,39.96,No,Annual,No,,
+1751,Mia Sharma,Female,54,Canada,2024-01-03,Premium,39.99,Yearly,Credit Card,2025-08-03,19,6,81.7,9117.72,No,Monthly,No,,
+1752,Mia Smith,Female,53,Japan,2024-09-18,Premium,39.99,Yearly,UPI,2024-11-27,46,10,92.6,959.76,No,Monthly,No,,
+1753,John Patel,Male,49,India,2025-03-21,Standard,19.99,Yearly,UPI,2025-08-25,8,10,117.8,1199.4,No,Annual,No,,
+1754,Ava Smith,Female,51,Australia,2022-08-13,Standard,19.99,Yearly,Credit Card,2024-09-25,9,10,143.0,5997.0,No,Annual,No,,
+1755,Aarav Brown,Male,18,USA,2025-03-31,Basic,9.99,Yearly,Debit Card,2026-04-08,52,2,5.3,1438.56,Yes,Monthly,No,,
+1756,Ethan Brown,Female,35,USA,2024-11-13,Premium,39.99,Yearly,Debit Card,2027-01-26,46,2,64.8,12476.88,No,Monthly,No,,
+1757,Kabir Smith,Female,38,Germany,2024-01-24,Standard,19.99,Yearly,Debit Card,2026-06-12,9,1,117.4,6956.52,Yes,Annual,No,,
+1758,Liam Brown,Female,23,USA,2025-01-07,Premium,39.99,Yearly,Debit Card,2026-11-23,11,10,83.3,10557.36,Yes,Monthly,Yes,2026-12-22,Features Missing
+1759,John Smith,Male,33,India,2025-02-25,Standard,19.99,Monthly,PayPal,2026-05-23,50,6,102.6,299.85,No,Monthly,No,,
+1760,Om Patel,Female,53,Japan,2024-01-16,Basic,9.99,Yearly,UPI,2026-03-07,8,9,112.9,3116.88,No,Monthly,No,,
+1761,John Waghchaure,Male,38,USA,2022-02-05,Basic,9.99,Monthly,Debit Card,2024-02-02,56,3,14.6,239.76,No,Annual,Yes,2024-02-07,Low Usage
+1762,Priya Waghchaure,Female,22,India,2022-02-16,Basic,9.99,Monthly,Credit Card,2023-03-14,39,1,132.7,129.87,Yes,Annual,No,,
+1763,Riya Johnson,Female,50,UK,2023-12-17,Standard,19.99,Monthly,Credit Card,2025-12-25,33,1,143.9,479.76,Yes,Monthly,No,,
+1764,Emma Brown,Male,65,UK,2023-02-26,Standard,19.99,Yearly,UPI,2025-05-19,25,3,98.8,6476.76,No,Annual,No,,
+1765,Sophia Waghchaure,Female,23,UK,2025-02-24,Basic,9.99,Yearly,Debit Card,2026-12-17,23,5,75.6,2637.36,No,Annual,Yes,2027-01-04,Features Missing
+1766,Anaya Sharma,Male,51,Australia,2023-10-28,Basic,9.99,Yearly,Credit Card,2026-03-13,5,2,18.6,3356.64,Yes,Annual,Yes,2026-04-30,Features Missing
+1767,Aarav Smith,Female,30,Canada,2024-04-04,Premium,39.99,Monthly,UPI,2025-09-12,57,10,136.8,679.83,Yes,Monthly,No,,
+1768,Kabir Patel,Male,27,Germany,2022-01-01,Standard,19.99,Monthly,Credit Card,2022-10-12,49,2,149.1,179.91,No,Annual,Yes,2022-11-21,Poor Support
+1769,Noah Patel,Female,37,Australia,2023-10-03,Premium,39.99,Monthly,Credit Card,2025-06-20,51,10,118.1,799.8,No,Annual,No,,
+1770,Priya Johnson,Male,44,Canada,2022-09-27,Basic,9.99,Yearly,PayPal,2024-05-22,8,0,109.6,2397.6,No,Annual,No,,
+1771,Ethan Waghchaure,Female,40,USA,2023-08-17,Standard,19.99,Monthly,UPI,2025-06-21,27,8,160.9,439.78,No,Annual,No,,
+1772,Olivia Patel,Female,42,Germany,2023-03-27,Standard,19.99,Yearly,Credit Card,2024-04-15,10,9,160.0,2878.56,No,Annual,No,,
+1773,Alex Patel,Female,62,USA,2023-02-23,Premium,39.99,Monthly,Debit Card,2024-04-19,30,5,126.5,559.86,No,Annual,No,,
+1774,John Sharma,Female,38,Canada,2024-01-09,Premium,39.99,Monthly,UPI,2025-04-27,36,4,160.6,599.85,Yes,Annual,No,,
+1775,Om Johnson,Female,49,UK,2023-03-19,Standard,19.99,Monthly,Debit Card,2024-08-13,58,5,108.1,339.83,No,Monthly,No,,
+1776,Alex Patel,Male,26,UK,2023-12-03,Premium,39.99,Monthly,Credit Card,2024-02-27,12,1,136.7,79.98,No,Monthly,Yes,2024-03-22,Low Usage
+1777,Emma Patel,Male,26,Germany,2025-01-06,Basic,9.99,Monthly,Credit Card,2026-04-08,58,5,105.1,149.85,Yes,Annual,No,,
+1778,Ethan Sharma,Male,38,Australia,2022-08-20,Basic,9.99,Monthly,UPI,2023-10-06,32,10,108.4,129.87,No,Monthly,Yes,2023-11-22,Poor Support
+1779,Alex Johnson,Male,52,UK,2022-12-19,Basic,9.99,Yearly,Credit Card,2023-03-07,21,2,80.7,239.76,Yes,Monthly,No,,
+1780,Ethan Sharma,Female,36,Australia,2022-09-26,Premium,39.99,Monthly,Debit Card,2025-02-27,55,8,80.7,1159.71,No,Monthly,No,,
+1781,Olivia Patel,Female,43,Canada,2023-07-22,Standard,19.99,Monthly,Credit Card,2025-12-18,20,3,90.9,579.71,Yes,Annual,No,,
+1782,John Brown,Female,65,USA,2023-08-08,Basic,9.99,Yearly,Debit Card,2024-12-08,16,7,167.5,1918.08,Yes,Monthly,No,,
+1783,Noah Waghchaure,Female,21,USA,2024-02-14,Basic,9.99,Yearly,PayPal,2025-03-05,59,5,93.4,1438.56,Yes,Monthly,Yes,2025-03-07,Switched Competitor
+1784,Sophia Waghchaure,Male,20,USA,2022-08-19,Standard,19.99,Monthly,PayPal,2022-09-21,47,7,133.9,19.99,Yes,Monthly,Yes,2022-10-02,Features Missing
+1785,Alex Johnson,Male,32,India,2022-01-05,Premium,39.99,Yearly,Credit Card,2022-10-25,38,10,142.3,4318.92,Yes,Annual,No,,
+1786,Mia Sharma,Female,21,UK,2023-08-18,Basic,9.99,Monthly,Credit Card,2024-08-24,19,10,162.9,119.88,Yes,Annual,Yes,2024-10-19,Features Missing
+1787,Anaya Sharma,Male,40,Canada,2023-09-30,Standard,19.99,Monthly,Debit Card,2024-12-21,13,7,122.9,279.86,Yes,Monthly,No,,
+1788,Riya Smith,Female,51,Canada,2025-03-08,Standard,19.99,Yearly,Credit Card,2027-03-16,16,5,177.5,5757.12,Yes,Monthly,Yes,2027-04-21,Low Usage
+1789,John Waghchaure,Female,25,USA,2022-11-24,Basic,9.99,Yearly,PayPal,2024-02-03,1,7,135.0,1678.32,No,Monthly,No,,
+1790,Alex Smith,Female,54,India,2023-09-26,Standard,19.99,Monthly,Credit Card,2024-11-20,55,9,132.7,279.86,Yes,Annual,No,,
+1791,Sophia Brown,Female,48,Australia,2022-01-23,Basic,9.99,Yearly,UPI,2024-03-10,27,7,43.3,2997.0,No,Monthly,No,,
+1792,Ava Sharma,Male,20,USA,2023-02-21,Premium,39.99,Monthly,Credit Card,2024-12-16,10,10,26.8,879.78,No,Monthly,No,,
+1793,Ethan Smith,Female,45,USA,2024-07-25,Standard,19.99,Yearly,PayPal,2026-04-05,48,0,130.6,4797.6,Yes,Annual,No,,
+1794,Priya Sharma,Male,37,USA,2023-10-05,Basic,9.99,Monthly,Credit Card,2025-08-19,45,4,134.4,219.78,No,Monthly,No,,
+1795,Olivia Brown,Male,60,Germany,2022-05-23,Standard,19.99,Monthly,Credit Card,2024-05-31,23,4,112.1,479.76,Yes,Monthly,No,,
+1796,Ava Sharma,Male,42,Germany,2023-03-03,Basic,9.99,Yearly,UPI,2025-06-07,14,3,110.0,3236.76,No,Monthly,No,,
+1797,Emma Patel,Female,46,Japan,2024-01-01,Basic,9.99,Yearly,Debit Card,2025-09-19,51,7,122.7,2397.6,No,Monthly,No,,
+1798,Liam Smith,Male,58,India,2023-12-04,Standard,19.99,Monthly,Debit Card,2025-05-02,57,3,145.4,339.83,Yes,Annual,No,,
+1799,Ethan Smith,Male,64,Canada,2024-01-13,Basic,9.99,Yearly,Debit Card,2025-08-25,33,9,93.2,2277.72,Yes,Monthly,No,,
+1800,Riya Brown,Female,33,Canada,2022-07-29,Standard,19.99,Monthly,Debit Card,2024-12-05,27,7,142.3,559.72,No,Monthly,No,,
+1801,Olivia Johnson,Female,64,UK,2023-03-17,Basic,9.99,Monthly,PayPal,2024-03-21,14,8,73.1,119.88,Yes,Annual,No,,
+1802,Olivia Waghchaure,Male,46,Germany,2022-11-24,Standard,19.99,Monthly,Debit Card,2023-10-30,19,4,166.5,219.89,Yes,Monthly,Yes,2023-12-06,Low Usage
+1803,Liam Waghchaure,Female,37,Japan,2023-12-08,Standard,19.99,Monthly,Debit Card,2025-05-24,8,4,44.4,339.83,No,Monthly,No,,
+1804,Emma Patel,Male,49,USA,2024-10-21,Basic,9.99,Yearly,PayPal,2026-09-16,36,3,69.1,2757.24,Yes,Annual,Yes,2026-10-20,High Price
+1805,Anaya Brown,Female,64,USA,2022-10-13,Basic,9.99,Monthly,UPI,2025-01-06,17,9,13.0,269.73,Yes,Monthly,No,,
+1806,Emma Johnson,Male,46,India,2022-08-30,Basic,9.99,Monthly,UPI,2023-08-05,27,2,87.3,109.89,Yes,Annual,No,,
+1807,Noah Waghchaure,Male,50,Canada,2022-09-02,Premium,39.99,Yearly,PayPal,2023-07-02,48,0,86.5,4798.8,Yes,Monthly,No,,
+1808,Olivia Smith,Female,50,USA,2022-07-10,Standard,19.99,Yearly,Debit Card,2023-04-06,21,10,12.7,2158.92,No,Annual,Yes,2023-05-29,Switched Competitor
+1809,Ava Smith,Female,30,Canada,2024-11-18,Standard,19.99,Monthly,Debit Card,2027-03-28,54,6,42.6,559.72,No,Annual,Yes,2027-04-28,Poor Support
+1810,Kabir Waghchaure,Female,58,Germany,2024-06-17,Premium,39.99,Monthly,UPI,2024-08-16,12,8,6.8,79.98,Yes,Monthly,Yes,2024-09-09,Low Usage
+1811,Olivia Brown,Female,63,Japan,2024-08-30,Basic,9.99,Yearly,Debit Card,2026-06-30,52,5,139.2,2637.36,No,Annual,No,,
+1812,Aarav Brown,Male,61,USA,2024-12-22,Basic,9.99,Monthly,Credit Card,2026-06-11,59,0,18.0,169.83,No,Monthly,No,,
+1813,Anaya Smith,Male,63,Australia,2024-09-18,Premium,39.99,Yearly,Credit Card,2025-05-18,9,7,143.3,3839.04,Yes,Monthly,No,,
+1814,Alex Johnson,Male,52,USA,2024-01-02,Standard,19.99,Yearly,Credit Card,2024-03-01,38,6,36.1,239.88,Yes,Monthly,Yes,2024-03-23,Switched Competitor
+1815,Olivia Brown,Female,34,UK,2023-11-12,Premium,39.99,Yearly,UPI,2024-07-16,15,1,12.1,3839.04,Yes,Monthly,Yes,2024-08-20,Low Usage
+1816,Ava Johnson,Male,50,UK,2023-07-09,Premium,39.99,Monthly,PayPal,2023-11-29,11,6,177.3,159.96,Yes,Annual,No,,
+1817,Liam Brown,Male,52,Australia,2025-01-29,Basic,9.99,Yearly,Debit Card,2025-05-27,40,5,134.4,359.64,Yes,Annual,No,,
+1818,Riya Johnson,Female,21,Canada,2023-08-20,Basic,9.99,Monthly,PayPal,2024-12-05,9,3,77.2,149.85,No,Annual,Yes,2025-01-15,Low Usage
+1819,Ava Waghchaure,Female,36,USA,2025-01-06,Premium,39.99,Monthly,Credit Card,2027-05-16,27,4,28.2,1119.72,Yes,Monthly,No,,
+1820,Mia Patel,Male,27,UK,2023-10-21,Standard,19.99,Yearly,Debit Card,2023-11-28,34,8,22.1,239.88,No,Annual,No,,
+1821,Aarav Smith,Male,52,Canada,2023-12-19,Premium,39.99,Monthly,UPI,2026-05-30,4,7,55.7,1159.71,No,Annual,No,,
+1822,Noah Patel,Male,29,Australia,2022-11-10,Basic,9.99,Monthly,PayPal,2023-08-20,9,7,43.3,89.91,Yes,Monthly,No,,
+1823,Priya Brown,Female,29,Australia,2022-06-08,Standard,19.99,Yearly,PayPal,2022-11-16,0,10,145.2,1199.4,No,Monthly,Yes,2023-01-08,Poor Support
+1824,Riya Waghchaure,Male,57,Australia,2024-07-22,Premium,39.99,Yearly,PayPal,2026-06-25,41,7,17.5,11037.24,Yes,Monthly,No,,
+1825,Alex Johnson,Male,46,India,2024-07-05,Standard,19.99,Yearly,PayPal,2025-12-21,4,8,150.0,4077.96,No,Monthly,Yes,2026-02-19,Features Missing
+1826,Om Johnson,Male,25,UK,2024-08-05,Standard,19.99,Yearly,Debit Card,2025-11-13,54,6,167.5,3598.2,Yes,Annual,No,,
+1827,Anaya Smith,Male,40,Australia,2024-09-05,Standard,19.99,Yearly,Debit Card,2025-04-13,50,2,83.8,1679.16,Yes,Annual,No,,
+1828,Sophia Patel,Male,21,Australia,2025-03-06,Premium,39.99,Monthly,UPI,2027-03-14,33,9,21.2,959.76,No,Annual,No,,
+1829,Emma Sharma,Male,41,Germany,2024-10-20,Standard,19.99,Yearly,Credit Card,2027-02-04,18,4,82.2,6476.76,Yes,Monthly,No,,
+1830,Sophia Smith,Male,40,Germany,2022-10-16,Premium,39.99,Yearly,Credit Card,2023-03-13,19,8,11.5,1919.52,No,Monthly,Yes,2023-05-03,Switched Competitor
+1831,Mia Patel,Male,51,Germany,2024-01-17,Standard,19.99,Yearly,Debit Card,2024-05-14,23,6,92.2,719.64,Yes,Annual,No,,
+1832,John Brown,Male,31,UK,2022-10-26,Basic,9.99,Yearly,UPI,2025-03-26,1,6,159.0,3476.52,Yes,Annual,No,,
+1833,Aarav Patel,Female,23,Australia,2023-10-18,Premium,39.99,Monthly,Credit Card,2025-08-28,21,5,78.1,879.78,No,Monthly,No,,
+1834,Anaya Smith,Female,56,Canada,2023-09-19,Premium,39.99,Monthly,PayPal,2025-12-11,0,4,122.0,1079.73,Yes,Monthly,Yes,2026-01-02,Switched Competitor
+1835,Aarav Sharma,Male,54,Australia,2024-01-20,Standard,19.99,Monthly,Debit Card,2024-04-21,40,0,39.4,59.97,No,Annual,No,,
+1836,Ava Smith,Female,57,Australia,2022-09-13,Premium,39.99,Monthly,Debit Card,2023-01-05,53,3,87.9,119.97,No,Annual,Yes,2023-02-08,Low Usage
+1837,Ava Johnson,Male,48,Japan,2023-07-12,Premium,39.99,Yearly,Debit Card,2024-10-11,33,7,15.8,7198.2,No,Monthly,No,,
+1838,Anaya Sharma,Male,50,UK,2024-05-02,Standard,19.99,Monthly,PayPal,2026-02-06,38,3,54.7,419.79,No,Monthly,No,,
+1839,Noah Brown,Male,61,Australia,2023-11-05,Premium,39.99,Monthly,Debit Card,2025-11-05,34,3,118.6,959.76,Yes,Monthly,No,,
+1840,Anaya Brown,Male,28,India,2024-10-18,Standard,19.99,Monthly,PayPal,2027-01-27,16,8,11.8,539.73,No,Annual,No,,
+1841,Ethan Sharma,Male,50,Japan,2024-07-22,Basic,9.99,Yearly,Credit Card,2025-12-23,8,2,56.3,2037.96,Yes,Annual,Yes,2026-01-22,High Price
+1842,Riya Smith,Male,23,Canada,2024-08-26,Premium,39.99,Monthly,Debit Card,2026-06-05,19,8,14.8,839.79,No,Monthly,No,,
+1843,Liam Smith,Male,24,Australia,2023-12-07,Standard,19.99,Yearly,UPI,2024-09-08,0,10,126.3,2158.92,Yes,Monthly,No,,
+1844,Priya Johnson,Male,32,Australia,2022-10-18,Premium,39.99,Monthly,Credit Card,2024-06-29,20,1,167.1,799.8,No,Annual,No,,
+1845,Priya Sharma,Female,50,Japan,2022-10-26,Standard,19.99,Yearly,Debit Card,2024-07-30,35,2,6.7,5037.48,Yes,Monthly,No,,
+1846,Olivia Waghchaure,Male,28,Australia,2023-01-05,Premium,39.99,Monthly,UPI,2025-01-15,11,3,141.6,959.76,No,Annual,No,,
+1847,Priya Patel,Female,38,Japan,2023-10-11,Premium,39.99,Monthly,PayPal,2024-02-09,22,9,163.5,159.96,Yes,Annual,Yes,2024-02-24,Features Missing
+1848,Olivia Johnson,Male,57,USA,2024-12-14,Standard,19.99,Monthly,Debit Card,2027-02-02,0,9,135.5,519.74,No,Monthly,No,,
+1849,Olivia Smith,Male,60,Germany,2022-02-17,Standard,19.99,Monthly,Credit Card,2022-10-09,47,3,166.6,139.93,No,Annual,No,,
+1850,Om Brown,Female,55,India,2022-10-19,Premium,39.99,Yearly,Credit Card,2023-08-31,31,7,20.0,4798.8,Yes,Annual,No,,
+1851,Riya Sharma,Female,27,USA,2022-03-22,Standard,19.99,Yearly,Credit Card,2023-04-23,14,2,132.6,3118.44,Yes,Annual,No,,
+1852,Ethan Smith,Male,41,India,2023-01-29,Standard,19.99,Yearly,Debit Card,2024-10-04,8,9,5.6,4797.6,No,Monthly,No,,
+1853,Ethan Smith,Female,38,Australia,2024-07-11,Basic,9.99,Yearly,Debit Card,2025-05-26,40,2,114.1,1198.8,Yes,Annual,No,,
+1854,Sophia Smith,Male,63,Germany,2022-12-10,Basic,9.99,Yearly,UPI,2024-04-15,16,6,124.2,1918.08,Yes,Annual,No,,
+1855,John Waghchaure,Female,60,Japan,2022-03-19,Premium,39.99,Yearly,Credit Card,2024-04-26,2,3,124.0,11997.0,No,Annual,Yes,2024-05-12,Switched Competitor
+1856,Ava Sharma,Male,22,USA,2024-05-12,Standard,19.99,Yearly,UPI,2025-06-23,32,10,150.6,3118.44,No,Annual,No,,
+1857,Emma Johnson,Male,19,Germany,2023-03-30,Basic,9.99,Yearly,Credit Card,2025-01-23,47,10,18.8,2637.36,Yes,Annual,No,,
+1858,Priya Patel,Female,31,India,2022-05-13,Standard,19.99,Monthly,Credit Card,2024-07-10,48,0,28.1,519.74,No,Annual,No,,
+1859,Anaya Waghchaure,Male,25,Japan,2024-02-28,Premium,39.99,Yearly,Credit Card,2026-04-19,42,5,9.6,12476.88,No,Monthly,Yes,2026-05-09,Poor Support
+1860,Mia Waghchaure,Male,50,USA,2024-07-10,Standard,19.99,Monthly,PayPal,2024-08-15,37,3,173.5,19.99,Yes,Monthly,No,,
+1861,Riya Smith,Male,49,Germany,2024-08-30,Standard,19.99,Monthly,Credit Card,2025-06-04,8,9,49.7,179.91,No,Annual,No,,
+1862,Emma Johnson,Male,60,Germany,2024-12-26,Standard,19.99,Yearly,Debit Card,2026-09-23,25,6,174.9,5037.48,Yes,Annual,No,,
+1863,Emma Waghchaure,Male,52,Japan,2022-05-24,Standard,19.99,Monthly,PayPal,2022-12-23,8,6,43.9,139.93,Yes,Monthly,No,,
+1864,John Waghchaure,Female,57,UK,2024-08-13,Premium,39.99,Monthly,Credit Card,2026-03-12,43,10,30.0,759.81,Yes,Monthly,No,,
+1865,Ava Johnson,Female,37,USA,2023-02-14,Premium,39.99,Yearly,UPI,2024-08-30,30,0,145.4,8637.84,Yes,Monthly,No,,
+1866,Noah Smith,Female,39,USA,2025-01-24,Standard,19.99,Monthly,PayPal,2025-10-22,59,6,167.7,179.91,No,Annual,Yes,2025-12-06,Poor Support
+1867,John Brown,Male,60,India,2024-10-03,Premium,39.99,Yearly,Debit Card,2026-02-14,38,1,54.3,7678.08,Yes,Monthly,No,,
+1868,Ava Sharma,Male,40,Australia,2023-06-01,Basic,9.99,Monthly,Credit Card,2024-06-02,42,6,123.5,119.88,Yes,Annual,No,,
+1869,Ethan Brown,Female,31,USA,2023-09-08,Basic,9.99,Monthly,UPI,2024-08-11,60,4,89.0,109.89,Yes,Annual,No,,
+1870,Aarav Waghchaure,Female,40,Germany,2022-10-14,Basic,9.99,Yearly,Credit Card,2024-06-10,39,5,46.4,2397.6,Yes,Annual,Yes,2024-07-18,High Price
+1871,Olivia Brown,Female,64,UK,2023-05-08,Standard,19.99,Monthly,PayPal,2025-08-26,30,5,112.3,559.72,Yes,Monthly,No,,
+1872,Noah Smith,Male,33,USA,2022-02-02,Basic,9.99,Yearly,Credit Card,2023-07-12,39,6,47.4,2037.96,Yes,Monthly,No,,
+1873,Om Johnson,Female,64,Japan,2022-05-12,Premium,39.99,Monthly,PayPal,2023-07-21,3,1,153.1,559.86,Yes,Monthly,No,,
+1874,Ethan Smith,Female,52,Japan,2025-03-16,Premium,39.99,Yearly,UPI,2027-04-04,52,0,46.0,11517.12,No,Annual,No,,
+1875,Anaya Smith,Male,62,Germany,2022-04-09,Basic,9.99,Yearly,Credit Card,2024-07-23,49,9,145.3,3236.76,Yes,Annual,Yes,2024-09-16,Features Missing
+1876,Mia Waghchaure,Female,50,Canada,2023-04-10,Premium,39.99,Yearly,Debit Card,2025-09-14,57,1,78.5,13916.52,Yes,Annual,Yes,2025-10-29,Features Missing
+1877,Aarav Johnson,Male,56,Japan,2024-07-13,Basic,9.99,Monthly,UPI,2026-09-19,42,6,116.3,259.74,No,Monthly,No,,
+1878,Noah Sharma,Male,44,Germany,2023-09-23,Premium,39.99,Yearly,PayPal,2025-08-09,29,9,17.8,10557.36,No,Monthly,No,,
+1879,Noah Patel,Male,26,India,2024-09-22,Basic,9.99,Yearly,Credit Card,2026-08-24,17,10,13.6,2757.24,Yes,Annual,Yes,2026-10-05,Low Usage
+1880,Om Smith,Female,44,Canada,2024-07-24,Basic,9.99,Monthly,Debit Card,2025-05-20,5,10,97.5,99.9,No,Annual,No,,
+1881,Mia Patel,Male,53,UK,2023-08-11,Standard,19.99,Yearly,UPI,2024-08-21,45,6,67.1,2878.56,Yes,Monthly,No,,
+1882,Liam Sharma,Female,30,Japan,2022-12-10,Basic,9.99,Monthly,Debit Card,2023-12-13,9,7,33.3,119.88,Yes,Monthly,No,,
+1883,Priya Sharma,Female,37,USA,2022-12-28,Premium,39.99,Yearly,PayPal,2023-10-05,25,0,44.1,4318.92,Yes,Monthly,No,,
+1884,Priya Waghchaure,Female,53,UK,2025-03-17,Standard,19.99,Yearly,PayPal,2026-11-24,18,8,42.0,4797.6,Yes,Monthly,Yes,2027-01-13,Features Missing
+1885,Anaya Sharma,Male,63,Canada,2025-03-29,Standard,19.99,Monthly,Debit Card,2026-05-04,40,7,113.5,259.87,Yes,Monthly,No,,
+1886,Noah Patel,Female,48,Japan,2023-09-17,Basic,9.99,Monthly,Credit Card,2024-08-23,29,2,131.6,109.89,No,Monthly,No,,
+1887,Aarav Smith,Female,38,Japan,2023-10-15,Standard,19.99,Yearly,Credit Card,2026-01-04,51,3,125.8,6476.76,Yes,Monthly,Yes,2026-02-15,High Price
+1888,John Smith,Female,39,UK,2022-01-29,Basic,9.99,Monthly,Credit Card,2024-03-27,10,0,105.0,259.74,No,Annual,No,,
+1889,Riya Sharma,Male,31,Australia,2025-02-08,Standard,19.99,Yearly,Credit Card,2025-12-16,14,5,35.2,2398.8,No,Monthly,No,,
+1890,John Smith,Male,56,India,2023-06-16,Premium,39.99,Yearly,UPI,2024-08-11,55,7,88.2,6718.32,No,Monthly,No,,
+1891,Om Brown,Male,48,UK,2025-01-12,Standard,19.99,Yearly,UPI,2027-06-28,4,0,117.7,6956.52,Yes,Monthly,No,,
+1892,Alex Patel,Female,60,Australia,2023-04-22,Standard,19.99,Yearly,Credit Card,2023-09-18,17,3,129.2,959.52,Yes,Monthly,Yes,2023-09-30,Features Missing
+1893,Kabir Brown,Male,46,USA,2023-03-04,Premium,39.99,Yearly,PayPal,2023-12-09,7,7,154.3,4318.92,Yes,Annual,No,,
+1894,Mia Brown,Male,30,USA,2022-09-28,Premium,39.99,Monthly,Debit Card,2023-09-26,8,5,116.7,479.88,Yes,Annual,No,,
+1895,John Brown,Female,45,India,2022-11-29,Premium,39.99,Monthly,Debit Card,2024-04-23,51,4,173.7,679.83,No,Annual,No,,
+1896,Liam Patel,Female,44,USA,2022-08-08,Basic,9.99,Monthly,Credit Card,2024-08-27,27,2,72.3,249.75,No,Annual,Yes,2024-10-03,Features Missing
+1897,Priya Waghchaure,Male,26,India,2023-08-28,Standard,19.99,Yearly,Debit Card,2024-03-03,23,7,124.4,1439.28,No,Annual,No,,
+1898,Ethan Brown,Female,37,Australia,2024-12-13,Basic,9.99,Monthly,UPI,2027-05-28,25,3,35.0,289.71,Yes,Monthly,No,,
+1899,Olivia Smith,Male,62,UK,2022-08-22,Premium,39.99,Yearly,Debit Card,2022-11-12,23,8,84.8,959.76,Yes,Annual,No,,
+1900,Om Johnson,Male,60,USA,2022-10-18,Basic,9.99,Monthly,Debit Card,2023-01-07,31,5,31.2,19.98,No,Annual,Yes,2023-02-13,High Price
+1901,Alex Sharma,Male,59,Australia,2024-02-16,Premium,39.99,Monthly,Credit Card,2025-03-12,55,3,178.1,519.87,No,Annual,No,,
+1902,Riya Waghchaure,Male,26,India,2022-09-19,Basic,9.99,Yearly,PayPal,2024-04-22,1,1,90.5,2277.72,No,Annual,Yes,2024-05-11,Switched Competitor
+1903,Emma Smith,Male,36,UK,2024-11-22,Standard,19.99,Monthly,UPI,2026-04-21,42,1,120.0,339.83,No,Annual,No,,
+1904,Kabir Smith,Female,60,Japan,2023-08-15,Basic,9.99,Monthly,UPI,2024-02-05,10,4,123.8,49.95,No,Annual,Yes,2024-04-01,Low Usage
+1905,Olivia Waghchaure,Female,19,Australia,2023-01-24,Standard,19.99,Yearly,Credit Card,2025-03-15,43,3,161.9,6236.88,Yes,Monthly,No,,
+1906,John Sharma,Male,36,Germany,2023-12-19,Premium,39.99,Yearly,PayPal,2024-12-08,29,4,29.5,5278.68,No,Monthly,No,,
+1907,Alex Sharma,Male,51,India,2022-01-20,Standard,19.99,Yearly,Credit Card,2023-03-21,28,5,89.3,3358.32,Yes,Monthly,Yes,2023-04-30,Low Usage
+1908,Anaya Waghchaure,Female,58,Australia,2025-01-26,Premium,39.99,Monthly,Debit Card,2025-06-11,8,5,15.9,159.96,Yes,Annual,No,,
+1909,Mia Patel,Female,34,Australia,2024-02-29,Basic,9.99,Monthly,UPI,2024-12-08,30,1,31.6,89.91,Yes,Monthly,Yes,2025-01-05,High Price
+1910,Emma Patel,Male,58,Germany,2024-12-29,Premium,39.99,Monthly,Debit Card,2025-02-25,57,6,84.0,39.99,No,Monthly,No,,
+1911,Riya Patel,Male,60,USA,2025-01-09,Premium,39.99,Monthly,PayPal,2026-11-30,54,4,133.9,919.77,No,Annual,No,,
+1912,Liam Waghchaure,Female,62,Canada,2025-03-15,Basic,9.99,Yearly,Debit Card,2027-08-27,60,6,144.5,3476.52,No,Monthly,No,,
+1913,Emma Sharma,Female,29,UK,2023-01-09,Basic,9.99,Yearly,UPI,2024-08-17,9,8,55.8,2277.72,No,Annual,No,,
+1914,Ethan Brown,Female,24,Germany,2024-06-25,Premium,39.99,Monthly,Debit Card,2026-10-23,0,9,178.8,1119.72,No,Monthly,No,,
+1915,Liam Johnson,Female,51,Canada,2024-12-30,Standard,19.99,Monthly,Debit Card,2027-04-29,26,2,126.6,559.72,Yes,Monthly,No,,
+1916,Alex Brown,Female,20,Canada,2024-07-16,Standard,19.99,Yearly,UPI,2026-01-10,23,3,96.2,4317.84,Yes,Annual,No,,
+1917,Aarav Sharma,Male,19,India,2023-04-06,Standard,19.99,Yearly,Credit Card,2024-04-11,49,10,137.0,2878.56,Yes,Annual,No,,
+1918,Priya Patel,Male,39,Japan,2023-06-14,Premium,39.99,Monthly,Debit Card,2025-03-22,21,6,48.4,839.79,Yes,Monthly,No,,
+1919,Aarav Patel,Female,46,Australia,2023-04-26,Standard,19.99,Monthly,UPI,2025-02-25,41,8,95.0,439.78,Yes,Monthly,Yes,2025-04-22,Poor Support
+1920,Om Waghchaure,Female,20,Japan,2023-11-20,Basic,9.99,Monthly,PayPal,2025-01-24,17,9,34.0,139.86,Yes,Annual,Yes,2025-02-16,Poor Support
+1921,Anaya Smith,Male,52,Canada,2023-02-03,Premium,39.99,Yearly,Debit Card,2023-11-05,19,1,10.1,4318.92,No,Annual,No,,
+1922,John Waghchaure,Male,34,USA,2024-08-02,Premium,39.99,Monthly,Credit Card,2025-04-09,55,7,35.4,319.92,Yes,Monthly,No,,
+1923,Kabir Smith,Female,59,Canada,2023-04-20,Standard,19.99,Yearly,Debit Card,2025-09-24,53,2,127.6,6956.52,Yes,Monthly,Yes,2025-09-29,Poor Support
+1924,Ethan Smith,Female,27,India,2023-02-26,Basic,9.99,Monthly,Credit Card,2024-06-12,39,4,39.4,149.85,Yes,Annual,No,,
+1925,Liam Sharma,Female,37,USA,2025-01-06,Basic,9.99,Yearly,Credit Card,2025-03-08,8,7,19.7,239.76,No,Monthly,Yes,2025-04-13,High Price
+1926,Kabir Patel,Male,26,Japan,2022-01-12,Basic,9.99,Yearly,Credit Card,2023-09-26,41,8,176.8,2397.6,No,Monthly,No,,
+1927,Ava Johnson,Female,27,India,2025-03-12,Basic,9.99,Yearly,Credit Card,2026-01-29,1,0,178.1,1198.8,Yes,Monthly,No,,
+1928,Olivia Waghchaure,Male,62,Australia,2024-11-06,Premium,39.99,Yearly,Credit Card,2025-02-14,25,10,110.3,1439.64,Yes,Monthly,No,,
+1929,Priya Sharma,Male,43,Japan,2025-02-04,Basic,9.99,Yearly,UPI,2026-07-01,4,7,17.0,2037.96,Yes,Annual,No,,
+1930,Olivia Smith,Female,28,Canada,2022-08-02,Premium,39.99,Monthly,Debit Card,2023-04-20,44,2,33.6,319.92,No,Annual,No,,
+1931,Anaya Johnson,Female,30,Australia,2022-01-18,Standard,19.99,Monthly,Credit Card,2024-03-25,20,0,29.8,519.74,No,Annual,No,,
+1932,Emma Patel,Male,64,Canada,2025-01-01,Standard,19.99,Monthly,Debit Card,2027-06-15,4,8,49.5,579.71,Yes,Annual,No,,
+1933,Riya Patel,Female,19,Japan,2025-03-04,Premium,39.99,Monthly,UPI,2027-06-02,47,4,32.2,1079.73,No,Monthly,No,,
+1934,Om Sharma,Male,36,India,2023-04-17,Standard,19.99,Monthly,PayPal,2024-06-17,51,2,120.6,279.86,Yes,Annual,No,,
+1935,Mia Johnson,Male,18,Germany,2023-07-15,Standard,19.99,Monthly,PayPal,2024-06-28,28,7,40.2,219.89,No,Monthly,Yes,2024-08-22,High Price
+1936,Riya Sharma,Female,55,Canada,2024-11-11,Standard,19.99,Monthly,UPI,2026-06-05,59,8,29.6,379.81,Yes,Monthly,Yes,2026-06-18,High Price
+1937,Liam Smith,Male,21,USA,2022-05-08,Standard,19.99,Monthly,UPI,2024-08-15,11,0,175.9,539.73,Yes,Annual,No,,
+1938,Liam Waghchaure,Male,44,Japan,2024-04-01,Basic,9.99,Monthly,Credit Card,2024-12-22,26,8,36.7,79.92,Yes,Annual,Yes,2025-02-01,Poor Support
+1939,Ethan Brown,Female,41,Germany,2024-10-22,Standard,19.99,Yearly,PayPal,2026-06-16,59,10,118.3,4797.6,Yes,Monthly,No,,
+1940,Noah Sharma,Male,34,India,2025-02-22,Basic,9.99,Yearly,Credit Card,2026-08-27,9,2,175.1,2157.84,No,Annual,Yes,2026-09-15,Poor Support
+1941,Aarav Johnson,Male,55,UK,2023-08-07,Basic,9.99,Yearly,UPI,2023-10-16,14,9,127.2,239.76,No,Monthly,Yes,2023-11-04,Switched Competitor
+1942,Alex Smith,Male,49,USA,2024-05-01,Basic,9.99,Monthly,PayPal,2024-08-20,41,4,46.4,29.97,No,Monthly,No,,
+1943,Mia Smith,Male,30,UK,2023-03-17,Standard,19.99,Monthly,PayPal,2024-04-01,10,7,160.7,239.88,Yes,Annual,No,,
+1944,Olivia Johnson,Female,61,India,2023-08-27,Premium,39.99,Monthly,UPI,2024-04-08,48,0,144.6,279.93,Yes,Annual,No,,
+1945,Riya Johnson,Female,60,Australia,2022-02-20,Basic,9.99,Yearly,UPI,2022-04-22,55,6,172.1,239.76,No,Annual,Yes,2022-06-16,Features Missing
+1946,Priya Waghchaure,Female,50,India,2024-12-18,Premium,39.99,Yearly,Debit Card,2026-08-25,31,6,54.9,9597.6,Yes,Annual,No,,
+1947,Noah Patel,Female,21,Japan,2024-05-03,Basic,9.99,Monthly,Credit Card,2026-08-23,18,7,157.8,279.72,No,Annual,No,,
+1948,Olivia Waghchaure,Male,19,UK,2022-04-28,Standard,19.99,Yearly,Debit Card,2023-03-30,3,5,151.9,2638.68,No,Monthly,Yes,2023-04-14,Features Missing
+1949,John Waghchaure,Male,39,Germany,2022-02-08,Standard,19.99,Yearly,UPI,2023-12-12,4,7,146.2,5277.36,Yes,Annual,No,,
+1950,Liam Waghchaure,Female,25,Canada,2023-08-24,Basic,9.99,Yearly,UPI,2025-11-13,59,5,112.8,3236.76,No,Monthly,Yes,2025-11-18,High Price
+1951,Emma Brown,Male,33,Japan,2024-11-30,Basic,9.99,Monthly,PayPal,2026-04-07,48,5,68.7,159.84,No,Annual,No,,
+1952,Priya Waghchaure,Male,47,USA,2024-05-22,Standard,19.99,Monthly,Debit Card,2026-10-02,17,7,15.2,559.72,Yes,Monthly,No,,
+1953,John Johnson,Male,60,Germany,2024-02-25,Premium,39.99,Monthly,Debit Card,2025-09-24,10,1,80.7,759.81,Yes,Annual,No,,
+1954,Priya Johnson,Female,40,UK,2023-12-12,Premium,39.99,Yearly,Credit Card,2025-06-21,33,7,88.3,8637.84,No,Annual,Yes,2025-08-14,High Price
+1955,Noah Patel,Female,20,Canada,2023-12-14,Standard,19.99,Monthly,PayPal,2026-01-09,25,5,24.7,499.75,Yes,Monthly,No,,
+1956,Liam Johnson,Male,61,Germany,2023-08-13,Premium,39.99,Monthly,UPI,2024-11-15,23,10,16.7,599.85,No,Annual,No,,
+1957,Emma Smith,Male,58,Germany,2025-03-30,Basic,9.99,Monthly,Credit Card,2026-05-05,10,9,40.4,129.87,Yes,Annual,No,,
+1958,Ethan Sharma,Male,34,Canada,2023-02-07,Premium,39.99,Yearly,UPI,2025-05-17,42,1,150.5,12956.76,No,Annual,No,,
+1959,Riya Brown,Female,53,USA,2023-10-07,Premium,39.99,Yearly,UPI,2024-01-17,27,0,56.3,1439.64,Yes,Annual,No,,
+1960,Riya Brown,Female,48,USA,2023-08-13,Premium,39.99,Monthly,PayPal,2023-12-18,31,5,15.0,159.96,Yes,Monthly,Yes,2024-01-01,High Price
+1961,Sophia Johnson,Male,50,UK,2025-04-09,Premium,39.99,Yearly,Debit Card,2025-07-19,6,5,132.4,1439.64,No,Monthly,No,,
+1962,Priya Sharma,Male,64,Germany,2024-03-19,Premium,39.99,Yearly,Debit Card,2024-12-28,7,7,155.5,4318.92,Yes,Monthly,Yes,2025-02-02,High Price
+1963,Kabir Waghchaure,Male,54,USA,2023-05-30,Standard,19.99,Monthly,Credit Card,2025-09-07,26,10,57.8,539.73,No,Annual,No,,
+1964,Emma Brown,Male,32,UK,2022-07-18,Standard,19.99,Yearly,PayPal,2023-06-03,36,0,68.5,2398.8,Yes,Annual,No,,
+1965,Om Waghchaure,Male,46,Australia,2023-01-18,Premium,39.99,Yearly,Credit Card,2024-07-16,2,7,28.0,8637.84,No,Monthly,No,,
+1966,Mia Johnson,Male,59,Australia,2023-07-04,Premium,39.99,Monthly,UPI,2025-07-10,21,0,131.7,959.76,Yes,Annual,No,,
+1967,Anaya Patel,Male,38,Australia,2023-11-22,Premium,39.99,Monthly,Debit Card,2024-03-03,27,6,169.1,119.97,Yes,Monthly,Yes,2024-03-19,Poor Support
+1968,Anaya Patel,Male,37,Japan,2024-01-24,Basic,9.99,Monthly,UPI,2025-08-25,37,5,177.4,189.81,No,Monthly,No,,
+1969,Emma Patel,Female,25,Australia,2023-02-24,Basic,9.99,Yearly,Credit Card,2024-07-02,35,4,145.7,1918.08,Yes,Monthly,Yes,2024-08-09,Features Missing
+1970,Alex Waghchaure,Female,19,UK,2022-04-19,Premium,39.99,Yearly,UPI,2023-07-23,9,5,20.1,7198.2,No,Annual,No,,
+1971,Alex Johnson,Male,35,Canada,2022-02-06,Basic,9.99,Monthly,UPI,2023-01-01,17,4,152.0,99.9,No,Monthly,No,,
+1972,Liam Patel,Male,53,Canada,2023-10-29,Basic,9.99,Yearly,Debit Card,2026-04-06,17,2,65.4,3476.52,Yes,Annual,No,,
+1973,Alex Patel,Female,24,Germany,2022-06-10,Standard,19.99,Yearly,PayPal,2023-07-29,15,8,135.3,3118.44,Yes,Annual,Yes,2023-08-10,Switched Competitor
+1974,Ethan Waghchaure,Male,18,USA,2024-03-08,Standard,19.99,Yearly,PayPal,2025-05-10,54,9,69.0,3358.32,No,Monthly,No,,
+1975,Liam Waghchaure,Male,47,Australia,2024-04-14,Premium,39.99,Yearly,Credit Card,2025-10-02,54,6,105.6,8157.96,Yes,Monthly,Yes,2025-10-27,Poor Support
+1976,Kabir Patel,Male,26,India,2024-08-10,Standard,19.99,Yearly,PayPal,2024-11-13,32,1,74.0,719.64,No,Monthly,Yes,2024-12-13,Features Missing
+1977,Mia Waghchaure,Male,46,Germany,2023-07-08,Standard,19.99,Yearly,UPI,2023-09-06,32,0,64.5,479.76,Yes,Monthly,No,,
+1978,Aarav Smith,Female,46,USA,2024-01-10,Premium,39.99,Monthly,UPI,2024-09-05,8,8,39.5,279.93,No,Monthly,No,,
+1979,Noah Johnson,Female,52,USA,2024-01-07,Basic,9.99,Yearly,Credit Card,2026-05-02,51,8,15.2,3356.64,Yes,Annual,No,,
+1980,Aarav Brown,Male,32,India,2024-11-09,Basic,9.99,Yearly,Credit Card,2025-04-16,23,6,117.2,599.4,No,Annual,No,,
+1981,Anaya Brown,Male,38,USA,2022-10-15,Standard,19.99,Monthly,PayPal,2024-09-23,16,3,104.2,459.77,Yes,Annual,No,,
+1982,Emma Smith,Male,23,Canada,2022-01-10,Premium,39.99,Yearly,Credit Card,2023-11-18,24,0,162.8,10557.36,No,Annual,No,,
+1983,Ethan Waghchaure,Male,26,UK,2022-11-03,Standard,19.99,Yearly,UPI,2023-01-29,54,2,83.4,479.76,Yes,Annual,No,,
+1984,Sophia Patel,Male,27,USA,2024-09-21,Standard,19.99,Monthly,PayPal,2024-12-20,4,10,85.4,59.97,No,Annual,Yes,2024-12-31,High Price
+1985,Noah Waghchaure,Male,62,Canada,2022-09-22,Basic,9.99,Monthly,UPI,2023-08-24,40,7,12.1,109.89,Yes,Annual,No,,
+1986,Noah Waghchaure,Female,53,Canada,2022-11-15,Premium,39.99,Yearly,PayPal,2023-07-28,47,10,6.6,3839.04,Yes,Monthly,No,,
+1987,Sophia Johnson,Female,33,Australia,2024-06-20,Basic,9.99,Yearly,PayPal,2025-04-19,40,7,62.4,1198.8,No,Monthly,Yes,2025-05-07,Switched Competitor
+1988,Ava Brown,Female,40,Canada,2022-04-20,Basic,9.99,Monthly,Debit Card,2022-10-20,56,0,89.1,59.94,No,Annual,No,,
+1989,Priya Smith,Male,42,Canada,2025-02-14,Standard,19.99,Monthly,Credit Card,2027-02-16,47,4,70.1,479.76,No,Monthly,No,,
+1990,Mia Waghchaure,Male,36,UK,2022-07-28,Standard,19.99,Monthly,PayPal,2024-04-08,55,4,123.6,399.8,Yes,Annual,No,,
+1991,Ethan Sharma,Female,53,UK,2024-12-14,Standard,19.99,Monthly,Credit Card,2026-02-07,15,3,62.0,279.86,No,Monthly,No,,
+1992,Noah Waghchaure,Female,52,India,2024-01-24,Premium,39.99,Monthly,Debit Card,2025-03-24,11,3,23.0,559.86,No,Monthly,No,,
+1993,Aarav Smith,Male,65,Canada,2022-02-02,Basic,9.99,Yearly,PayPal,2023-08-17,34,9,7.4,2157.84,Yes,Annual,No,,
+1994,Anaya Smith,Female,31,Germany,2025-01-06,Standard,19.99,Yearly,PayPal,2026-01-28,53,7,91.3,2878.56,Yes,Monthly,Yes,2026-03-08,High Price
+1995,Liam Waghchaure,Male,53,Germany,2023-04-09,Basic,9.99,Yearly,PayPal,2024-01-11,19,7,148.5,1078.92,Yes,Monthly,No,,
+1996,Priya Johnson,Male,38,India,2024-05-07,Premium,39.99,Yearly,Credit Card,2025-10-25,39,4,24.0,8157.96,Yes,Annual,No,,
+1997,Ethan Sharma,Male,65,Australia,2025-02-01,Premium,39.99,Yearly,PayPal,2027-05-15,15,1,134.5,12956.76,Yes,Monthly,Yes,2027-06-18,High Price
+1998,Olivia Smith,Female,29,Australia,2024-05-15,Standard,19.99,Yearly,PayPal,2024-11-16,23,1,25.5,1439.28,No,Annual,Yes,2024-12-24,Switched Competitor
+1999,Emma Sharma,Female,42,USA,2024-05-02,Premium,39.99,Yearly,UPI,2026-08-29,1,1,146.2,13436.64,Yes,Monthly,No,,
+2000,Anaya Patel,Male,64,Japan,2022-03-24,Basic,9.99,Yearly,PayPal,2022-05-08,24,5,123.9,119.88,No,Monthly,No,,
